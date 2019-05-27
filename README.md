@@ -340,3 +340,9 @@ Pas de recommandation.
 - À nos amis -- Le comité invisible
 - Maintenant -- Le comité invisible
 - L'information et la communication. Théorie générale -- Robert Escarpit
+
+### P. Servigne & J. Blamont : Introduction au siècle des menaces 
+
+> 18 octobre 2018
+
+- Une autre fin du monde est possible -- Pablo Servigne et Raphaël Stevens
