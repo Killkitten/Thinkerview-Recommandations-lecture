@@ -359,3 +359,14 @@ Pas de recommandation.
 > 18 octobre 2018
 
 - Une autre fin du monde est possible -- Pablo Servigne et Raphaël Stevens
+
+### Tancrède Ramonet : Anarchie VS Capitalisme ?
+
+> 2 octobre 2018
+
+- Bullshit jobs -- David Graeber
+- Premières mesures révolutionnaires -- Éric Hazan
+- Le Monde comme volonté et comme représentation -- Arthur Schopenhauer
+- L’Art d’avoir toujours raison -- Arthur Schopenhauer
+- Moby Dick -- Herman Melville
+- À bord du négrier -- Marcus Rediker
