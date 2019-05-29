@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 bouquins pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Edwy Plenel - Mediapart : Benalla, Macron, le journalisme menacé ?
+
+> 24 mai 2019
+
+Pas de recommandations.
+
+Livres cités : 
+- La victoire des vaincus : A propos des gilets jaunes -- Edwy Plenel
+- Les nouveaux chiens de garde --  Serge Halimi
+- Le Portrait de Dorian Gray -- Oscar Wilde
+- La caste: Enquête sur cette haute fonction publique qui a pris le pouvoir -- Laurent Mauduit
+- Crépuscule -- Juan Branco
+
 ### Barbara Stiegler : S'adapter à une société malade ?
 
 > 17 mai 2019
@@ -14,10 +27,10 @@ Liste des recommandations lecture des invités de ThinkerView (3 bouquins pour l
 
 Livres cités lors de l'interview :
 
-- Il faut s'adapter : Sur un nouvel impératif politique - Barbara Stiegler
-- The Good Society - Walter Lippmann
-- La nouvelle raison du monde: essai sur la société néolibérale - Christian Laval et Pierre Dardot
-- De l'éducation - Jiddu Krishnamurti (Par Thinkerview)
+- Il faut s'adapter : Sur un nouvel impératif politique -- Barbara Stiegler
+- The Good Society -- Walter Lippmann
+- La nouvelle raison du monde: essai sur la société néolibérale -- Christian Laval et Pierre Dardot
+- De l'éducation -- Jiddu Krishnamurti (Par Thinkerview)
 
 ### Philippe Bihouix : Prophète de l’apocalypse ?
 
