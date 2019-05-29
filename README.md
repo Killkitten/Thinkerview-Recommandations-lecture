@@ -23,7 +23,7 @@ Livres cités :
 
 > 17 mai 2019
 
-- Naissance de la biopolitique: cours au Collège de France  --  Michel Foucault
+- Naissance de la biopolitique: cours au Collège de France  -  Michel Foucault : https://www.youtube.com/playlist?list=PLw4-Fp0S2dJakQHXcXxTSjISLCAuT0Qiv
 
 Livres cités lors de l'interview :
 
