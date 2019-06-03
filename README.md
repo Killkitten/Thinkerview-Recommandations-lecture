@@ -370,3 +370,23 @@ Pas de recommandation.
 - L’Art d’avoir toujours raison -- Arthur Schopenhauer
 - Moby Dick -- Herman Melville
 - À bord du négrier -- Marcus Rediker
+
+### Artem Studennikov : Ambassade de Russie : Acte 2, Espions, Guerre Froide sans filtre
+
+> 27 septembre 2018
+
+Pas de recommandation.
+
+### Isabelle Attard : Ex-députée écolo : sans langue de bois ?
+
+> 21 septembre 2018
+
+- L'Oeuvre de Murray Bookchin
+- L'an 01 -- Gébé
+- Résilience -- Augustin Lebon
+- L'essai -- Nicolas Debon
+
+Documentaires : 
+
+- Howard Zinn, Une histoire populaire américiane -- Olivier Azam et Daniel Mermet
+- Ni Dieu, ni maîre -- Tancrède Ramonet
