@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 bouquins pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Monique Pinçon-Charlot : Casse sociale, le début ?
+
+> 4 juin 2019
+
+- Sarkozy-Kadhafi. Des billets et des bombes --  Fabrice Arfi, Benoît Collombat, Thierry Chavant, Geoffrey Le Guilcher, Elodie Gueguen, Michel Despratx
+- Les Prédateurs -- Catherine Le Gall et Denis Robert
+- La caste: Enquête sur cette haute fonction publique qui a pris le pouvoir -- Laurent Mauduit
+- Article 353 du Code pénal -- Tanguy Viel
+
+Autres livres cités au cours de l'interview :
+
+- Les nouveaux chiens de garde -- Serge Halimi
+- Le grand bond en arrière -- Serge Halimi
+- Crépuscule -- Juan Branco
+- La violence des riches: Chronique d'une immense casse sociale -- Michel Pinçon et Monique Pinçon-Charlot
+
 ### Edwy Plenel - Mediapart : Benalla, Macron, le journalisme menacé ?
 
 > 24 mai 2019
