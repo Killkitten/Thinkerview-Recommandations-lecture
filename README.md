@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 bouquins pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Alain Grandjean : la finance va-t-elle sauver la planète ?
+
+> 12 juin 2019
+
+Pas de recommandation lecture.
+
 ### Monique Pinçon-Charlot : Casse sociale, le début ?
 
 > 4 juin 2019
