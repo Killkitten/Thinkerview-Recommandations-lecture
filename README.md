@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 bouquins pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Jean Ziegler : Pourquoi il faut détruire le capitalisme ?
+
+> 14 juin 2019
+
+- Le Capitalisme expliqué à ma petite-fille (en espérant qu'elle en verra la fin) -- Jean Ziegler
+- Les Misérables -- Victor Hugo
+- Discours et conférences -- Jean Jaurès
+
+Autres livres cités au cours de l'interview :
+
+- Les damnés de la Terre -- Frantz Fanon
+- Du contrat social -- Jean-Jacques Rousseau
+- Le nom de Dieu est Miséricorde -- Pape François
+
 ### Alain Grandjean : la finance va-t-elle sauver la planète ?
 
 > 12 juin 2019
