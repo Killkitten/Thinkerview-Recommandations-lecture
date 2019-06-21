@@ -202,7 +202,7 @@ Pas de recommandation.
 
 - À nos amis - Le comité invisible
 - Crépuscule - Juan Branco
-- Les Carnets du sous-sol - Fiodo Dostoïvski
+- Les Carnets du sous-sol - Fiodor Dostoïevski
 - Lumière d'août - William Faulkner
 - Attente de Dieu - Simone Veil
 
