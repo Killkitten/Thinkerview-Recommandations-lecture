@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 bouquins pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Laherrère, Meilhan: Croissance, énergie, le point de non-retour ?
+
+> 19 juin 2019
+
+Pas de recommandation lecture.
+
 ### Jean Ziegler : Pourquoi il faut détruire le capitalisme ?
 
 > 14 juin 2019
