@@ -432,3 +432,9 @@ Documentaires :
 
 - Howard Zinn, Une histoire populaire américiane -- Olivier Azam et Daniel Mermet
 - Ni Dieu, ni maîre -- Tancrède Ramonet
+
+### Edgar Morin : L’effondrement ?
+
+> 19 septembre 2018
+
+Pas de recommandation lecture faite.
