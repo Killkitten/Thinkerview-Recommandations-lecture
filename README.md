@@ -4,7 +4,7 @@
 
 ## Recommandations de lecture des invités
 
-Liste des recommandations lecture des invités de ThinkerView (3 bouquins pour la communauté) avec titre de l'oeuvre et auteur.
+Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
 ### Laherrère, Meilhan: Croissance, énergie, le point de non-retour ?
 
@@ -438,3 +438,9 @@ Documentaires :
 > 19 septembre 2018
 
 Pas de recommandation lecture faite.
+
+###   Yannick Rousselet, Greenpeace : Menaces Nucléaire ?
+
+> 19 septembre 2018
+
+- Les romans policiers de Fred Vargas
