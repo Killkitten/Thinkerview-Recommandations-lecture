@@ -6,6 +6,24 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Débat : L'avenir de l'humanité ? Laurent Alexandre et Philippe Bihouix
+
+> 25 juin 2019
+
+Philippe Bihouix:
+
+- Éloge du carburateur -- Matthew Crawford
+- Technique et civilisation -- Lewis Mumford
+- Une question de taille -- Olivier Rey
+
+Laurent Alexandre:
+
+- The Case Against Education: Why the Education System Is a Waste of Time and Money -- Bryan Caplan
+- The Neuroscience of Intelligence -- Richard J. Haier
+- AI Superpowers: China, Silicon Valley, and the New World Order -- Kai-Fu Lee 
+- Blueprint -- Robert Plomin
+
+
 ### Laherrère, Meilhan: Croissance, énergie, le point de non-retour ?
 
 > 19 juin 2019
