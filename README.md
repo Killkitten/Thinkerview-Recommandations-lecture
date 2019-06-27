@@ -10,13 +10,13 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 
 > 25 juin 2019
 
-Philippe Bihouix:
+Philippe Bihouix :
 
 - Éloge du carburateur -- Matthew Crawford
 - Technique et civilisation -- Lewis Mumford
 - Une question de taille -- Olivier Rey
 
-Laurent Alexandre:
+Laurent Alexandre :
 
 - The Case Against Education: Why the Education System Is a Waste of Time and Money -- Bryan Caplan
 - The Neuroscience of Intelligence -- Richard J. Haier
