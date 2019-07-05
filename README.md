@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Ecologie, Transport et Mythomanie : Laurent Castaignède
+
+> 2 juillet 2019
+
+Pas de recommandation lecture.
+
+Livres cités lors de l'interview :
+
+- Airvore ou la face obscure des transports -- Laurent Castaignède
+- Chronique d'une mort annoncée --  Gabriel García Márquez
+- Le Vingtième Siècle -- Albert Robida
+- Le Meilleur des mondes -- Aldous Huxley
+
 ### Débat : L'avenir de l'humanité ? Laurent Alexandre et Philippe Bihouix
 
 > 25 juin 2019
