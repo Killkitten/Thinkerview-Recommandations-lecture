@@ -6,6 +6,13 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Arabie Saoudite, un pays protégé ? Pierre Conesa
+
+> 2 juillet 2019
+
+- Hollywar: Hollywood, arme de propagande massive -- Pierre Conesa
+- Une histoire du wahhabisme: Comment l'islam sectaire est devenu l'islam -- Hamadi Redissi
+
 ### Ecologie, Transport et Mythomanie : Laurent Castaignède
 
 > 2 juillet 2019
