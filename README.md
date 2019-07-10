@@ -6,67 +6,81 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Alstom : la France vendue à la découpe ? Frédéric Pierucci
+
+> 8 juillet 2019
+> [youtube](https://www.youtube.com/watch?v=dejeVuL9-7c)
+
+- Le droit, nouvelle arme de guerre économique : Comment les États-Unis déstabilisent les entreprises européenne - Ali Laïdi
+- La Stratégie du choc : la montée d'un capitalisme du désastre - Naomi Klein
+- Vol MH370 : Une vie détournée - Ghislain Wattrelos
+
 ### Arabie Saoudite, un pays protégé ? Pierre Conesa
 
 > 2 juillet 2019
+> [youtube](https://www.youtube.com/watch?v=5TbbV06LlP0)
 
-- Hollywar: Hollywood, arme de propagande massive -- Pierre Conesa
-- Une histoire du wahhabisme: Comment l'islam sectaire est devenu l'islam -- Hamadi Redissi
+- Hollywar : Hollywood, arme de propagande massive - Pierre Conesa
+- Une histoire du wahhabisme : Comment l'islam sectaire est devenu l'islam - Hamadi Redissi
 
 ### Ecologie, Transport et Mythomanie : Laurent Castaignède
 
 > 2 juillet 2019
+> [youtube](https://www.youtube.com/watch?v=5gOsjIxR7T0)
 
 Pas de recommandation lecture.
 
 Livres cités lors de l'interview :
 
-- Airvore ou la face obscure des transports -- Laurent Castaignède
-- Chronique d'une mort annoncée --  Gabriel García Márquez
-- Le Vingtième Siècle -- Albert Robida
-- Le Meilleur des mondes -- Aldous Huxley
+- Airvore ou la face obscure des transports - Laurent Castaignède
+- Chronique d'une mort annoncée -  Gabriel García Márquez
+- Le Vingtième Siècle - Albert Robida
+- Le Meilleur des mondes - Aldous Huxley
 
 ### Débat : L'avenir de l'humanité ? Laurent Alexandre et Philippe Bihouix
 
 > 25 juin 2019
+> [youtube](https://www.youtube.com/watch?v=9iuBVin9oOk&t=4262s) - [peertube](https://thinkerview.video/videos/watch/4cadaa9d-10cd-468e-8d41-afeceb946273)
 
 Philippe Bihouix :
 
-- Éloge du carburateur -- Matthew Crawford
-- Technique et civilisation -- Lewis Mumford
-- Une question de taille -- Olivier Rey
+- Éloge du carburateur - Matthew Crawford
+- Technique et civilisation - Lewis Mumford
+- Une question de taille - Olivier Rey
 
 Laurent Alexandre :
 
-- The Case Against Education: Why the Education System Is a Waste of Time and Money -- Bryan Caplan
-- The Neuroscience of Intelligence -- Richard J. Haier
-- AI Superpowers: China, Silicon Valley, and the New World Order -- Kai-Fu Lee 
-- Blueprint -- Robert Plomin
-
+- The Case Against Education: Why the Education System Is a Waste of Time and Money - Bryan Caplan
+- The Neuroscience of Intelligence - Richard J. Haier
+- AI Superpowers: China, Silicon Valley, and the New World Order - Kai-Fu Lee 
+- Blueprint - Robert Plomin
 
 ### Laherrère, Meilhan: Croissance, énergie, le point de non-retour ?
 
 > 19 juin 2019
+> [youtube](https://www.youtube.com/watch?v=zyt81qmTz6g) - [peertube](https://thinkerview.video/videos/watch/01457f59-fb08-403b-8954-6226aee67f78)
 
 Pas de recommandation lecture.
 
 ### Jean Ziegler : Pourquoi il faut détruire le capitalisme ?
 
 > 14 juin 2019
+> [youtube](https://www.youtube.com/watch?v=sIJd1kuR2Ps) - [peertube](https://thinkerview.video/videos/watch/107cd859-ba9d-498c-81f9-b1d84df32081)
 
-- Le Capitalisme expliqué à ma petite-fille (en espérant qu'elle en verra la fin) -- Jean Ziegler
-- Les Misérables -- Victor Hugo
-- Discours et conférences -- Jean Jaurès
+- Le Capitalisme expliqué à ma petite-fille (en espérant qu'elle en verra la fin) - Jean Ziegler
+- Les Misérables - Victor Hugo
+- Discours et conférences - Jean Jaurès
 
 Autres livres cités au cours de l'interview :
 
-- Les damnés de la Terre -- Frantz Fanon
-- Du contrat social -- Jean-Jacques Rousseau
-- Le nom de Dieu est Miséricorde -- Pape François
+- Les damnés de la Terre - Frantz Fanon
+- Du contrat social - Jean-Jacques Rousseau
+- Le nom de Dieu est Miséricorde - Pape François
 
 ### Alain Grandjean : la finance va-t-elle sauver la planète ?
 
 > 12 juin 2019
+> [youtube](https://www.youtube.com/watch?v=zoT3XBmsZc8) - [peertube](https://thinkerview.video/videos/watch/de2b477a-8bad-46c4-a6ae-e6bff4d07085)
 
 Pas de recommandation lecture.
 
@@ -74,17 +88,17 @@ Pas de recommandation lecture.
 
 > 4 juin 2019
 
-- Sarkozy-Kadhafi. Des billets et des bombes --  Fabrice Arfi, Benoît Collombat, Thierry Chavant, Geoffrey Le Guilcher, Elodie Gueguen, Michel Despratx
-- Les Prédateurs -- Catherine Le Gall et Denis Robert
-- La caste: Enquête sur cette haute fonction publique qui a pris le pouvoir -- Laurent Mauduit
-- Article 353 du Code pénal -- Tanguy Viel
+- Sarkozy-Kadhafi. Des billets et des bombes -  Fabrice Arfi, Benoît Collombat, Thierry Chavant, Geoffrey Le Guilcher, Elodie Gueguen, Michel Despratx
+- Les Prédateurs - Catherine Le Gall et Denis Robert
+- La caste: Enquête sur cette haute fonction publique qui a pris le pouvoir - Laurent Mauduit
+- Article 353 du Code pénal - Tanguy Viel
 
 Autres livres cités au cours de l'interview :
 
 - Les nouveaux chiens de garde -- Serge Halimi
-- Le grand bond en arrière -- Serge Halimi
-- Crépuscule -- Juan Branco
-- La violence des riches: Chronique d'une immense casse sociale -- Michel Pinçon et Monique Pinçon-Charlot
+- Le grand bond en arrière - Serge Halimi
+- Crépuscule - Juan Branco
+- La violence des riches : Chronique d'une immense casse sociale - Michel Pinçon et Monique Pinçon-Charlot
 
 ### Edwy Plenel - Mediapart : Benalla, Macron, le journalisme menacé ?
 
@@ -93,24 +107,24 @@ Autres livres cités au cours de l'interview :
 Pas de recommandations.
 
 Livres cités : 
-- La victoire des vaincus : A propos des gilets jaunes -- Edwy Plenel
-- Les nouveaux chiens de garde --  Serge Halimi
-- Le Portrait de Dorian Gray -- Oscar Wilde
-- La caste: Enquête sur cette haute fonction publique qui a pris le pouvoir -- Laurent Mauduit
-- Crépuscule -- Juan Branco
+- La victoire des vaincus : A propos des gilets jaunes - Edwy Plenel
+- Les nouveaux chiens de garde -  Serge Halimi
+- Le Portrait de Dorian Gray - Oscar Wilde
+- La caste: Enquête sur cette haute fonction publique qui a pris le pouvoir - Laurent Mauduit
+- Crépuscule - Juan Branco
 
 ### Barbara Stiegler : S'adapter à une société malade ?
 
 > 17 mai 2019
 
-- Naissance de la biopolitique: cours au Collège de France  -  Michel Foucault : [Playlist YouTube du cours](https://www.youtube.com/playlist?list=PLw4-Fp0S2dJakQHXcXxTSjISLCAuT0Qiv)
+- Naissance de la biopolitique : cours au Collège de France  -  Michel Foucault : [Playlist YouTube du cours](https://www.youtube.com/playlist?list=PLw4-Fp0S2dJakQHXcXxTSjISLCAuT0Qiv)
 
 Livres cités lors de l'interview :
 
-- Il faut s'adapter : Sur un nouvel impératif politique -- Barbara Stiegler
-- The Good Society -- Walter Lippmann
-- La nouvelle raison du monde: essai sur la société néolibérale -- Christian Laval et Pierre Dardot
-- De l'éducation -- Jiddu Krishnamurti (Par Thinkerview)
+- Il faut s'adapter : Sur un nouvel impératif politique - Barbara Stiegler
+- The Good Society - Walter Lippmann
+- La nouvelle raison du monde: essai sur la société néolibérale - Christian Laval et Pierre Dardot
+- De l'éducation - Jiddu Krishnamurti (Par Thinkerview)
 
 ### Philippe Bihouix : Prophète de l’apocalypse ?
 
@@ -119,10 +133,10 @@ Livres cités lors de l'interview :
 Pas de recommandations.
 
 Livres cités  lors de l'interview :
-- Le bonheur était pour demain: Rêveries d'un ingénieur solitaire -- Philippe Bihouix
-- La Nouvelle Atlantide -- Francis Bacon
-- Leurre et malheur du transhumanisme -- Olivier Rey
-- L'Oeuvre de Lewis Mumford
+- Le bonheur était pour demain : Rêveries d'un ingénieur solitaire - Philippe Bihouix
+- La Nouvelle Atlantide - Francis Bacon
+- Leurre et malheur du transhumanisme - Olivier Rey
+- L'Oeuvre - Lewis Mumford
 
 ### Union Européenne pour ou contre ? Coralie Delaume
 
@@ -412,7 +426,7 @@ Pas de recommandation.
 > 06 novembre 2018
 
 Seul des auteurs sont cités :
- 
+
 - Konrad Lorenz
 - Richard Dawkins
 - Jean de La Fontaine
