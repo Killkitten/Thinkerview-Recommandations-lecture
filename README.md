@@ -15,6 +15,10 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 - La Stratégie du choc : la montée d'un capitalisme du désastre - Naomi Klein
 - Vol MH370 : Une vie détournée - Ghislain Wattrelos
 
+Livre de l'invité :
+
+- Le piège américain - Frédéric Pierucci et Matthieu Aron
+
 ### Arabie Saoudite, un pays protégé ? Pierre Conesa
 
 > 2 juillet 2019
