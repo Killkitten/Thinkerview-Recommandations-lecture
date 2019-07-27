@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### USA : Nos anciens alliés ? Arnaud Montebourg
+
+> 25 juillet 2019
+
+Pas de recommandation lecture.
+
 ### Alstom : la France vendue à la découpe ? Frédéric Pierucci
 
 > 8 juillet 2019
