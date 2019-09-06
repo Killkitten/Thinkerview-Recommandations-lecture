@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### DGSE : l'impuissance de l'état ? Maxime Renahy
+
+> 3 septembre 2019
+> [youtube](https://youtu.be/Uj83ZmfT4Dw)
+
+- Au nom de tous les miens -  Martin Gray et Max Gallo
+- Un sac de billes - Joseph Joffo
+- L'oeuvre de Monique Pinçon-Charlot
+
+Livre de l'invité :
+
+- Là où est l'argent - Maxime Renahy
+
+
 ### USA : Nos anciens alliés ? Arnaud Montebourg
 
 > 25 juillet 2019
