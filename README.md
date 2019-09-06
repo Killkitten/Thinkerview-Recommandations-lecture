@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Football : du pain, des jeux et des magouilles ? Vikash Dhorasoo
+
+> 5 septembre 2019
+> [youtube](https://youtu.be/_EFDjsMDlXU)
+
+- Comme ses pieds - Vikash Dhorasoo
+- Kahawa - Donald E. Westlake
+- La Perle - John Steinbeck
+- L'oeuvre de Danniel Pennac
+
 ### DGSE : l'impuissance de l'état ? Maxime Renahy
 
 > 3 septembre 2019
@@ -18,7 +28,6 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 Livre de l'invité :
 
 - Là où est l'argent - Maxime Renahy
-
 
 ### USA : Nos anciens alliés ? Arnaud Montebourg
 
