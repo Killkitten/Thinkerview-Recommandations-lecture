@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La France en danger: où en est le renseignement ? Eric Dénécé
+
+> 11 septembre 2019
+> [youtube](https://youtu.be/mx5QlspmmE8)
+
+- Le secret de l'occident - David Cosandey
+- Les nourritures terrestres - André Gide
+- Ode à l'homme qui fut la France - Romain Gary
+
 ### Football : du pain, des jeux et des magouilles ? Vikash Dhorasoo
 
 > 5 septembre 2019
