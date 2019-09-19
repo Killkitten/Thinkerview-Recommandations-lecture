@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Guerre économique sans pitié pour la France ? Olivier Marleix
+
+> 17 septembre 2019
+> [youtube](https://youtu.be/2mor2qort4U)
+
+- Mémoires d'espoir - Charles de Gaulle
+- Histoire intellectuelle du libéralisme - Pierre Manent 
+- La Chartreuse de Parme - Stendhal
+
 ### La France en danger: où en est le renseignement ? Eric Dénécé
 
 > 11 septembre 2019
