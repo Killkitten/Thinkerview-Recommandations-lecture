@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### DGSE : Face à la réalité ? Talk with a spy
+
+> 20 septembre 2019
+> [youtube](https://youtu.be/_GONFUveBH0)
+
+- L'espion et le traître - Ben Macintyre
+- Les Gens de Smiley - John Le Carré
+- La Puissance et la Gloire - Graham Greene
+
+Livre de l'invité : 
+
+- Profession espion - Olivier Mas (Beryl 614)
+
 ### Guerre économique sans pitié pour la France ? Olivier Marleix
 
 > 17 septembre 2019
