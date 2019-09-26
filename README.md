@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Un prix Nobel face au krach à venir ? Joseph Stiglitz
+
+> 25 septembre 2019
+> [youtube](https://youtu.be/-J_2tNIA4cI)
+
+- Democracy in Chains: The Deep History of the Radical Right's Stealth Plan for America - Nancy MacLean 
+- How Democracies Die - Steven Levitsky & Daniel Ziblatt 
+- Le Fascisme en action (titre original : Anatomie du Fascisme) - Robert O. Paxton
+
+Dernier livre de l'invité : 
+
+- People, Power, and Profits: Progressive Capitalism for an Age of Discontent - Joseph E. Stiglitz
+
 ### DGSE : Face à la réalité ? Talk with a spy
 
 > 20 septembre 2019
