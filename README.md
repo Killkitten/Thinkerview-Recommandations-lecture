@@ -6,6 +6,23 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### GIEC : Le climat survivra-t-il au capitalisme ? Jouzel & Larrouturou
+
+> 27 septembre 2019
+> [youtube](https://youtu.be/tUml_4KZKhk)
+
+Jean Jouzel :
+
+- Pour éviter le chaos climatique et financier - Jean Jouzel & Pierre Larrouturou
+
+ Pierre Larrouturou : 
+ 
+ - Perdre la Terre - Nathaniel Rich
+ 
+ Livre des invités : 
+ 
+ - Finance, Climat, Réveillez-vous ! - Anne Hessel & Jean Jouzel & Pierre Larrouturou
+
 ### Un prix Nobel face au krach à venir ? Joseph Stiglitz
 
 > 25 septembre 2019
