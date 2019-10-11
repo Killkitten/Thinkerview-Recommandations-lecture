@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'explosion des banques ? Christophe Nijdam & Jérôme Cazes
+
+> 9 octobre 2019
+> [youtube](https://youtu.be/5WHg49trJCw)
+
+Christophe Nijdam : 
+
+- Sapiens : Une brève histoire de l'humanité - Yuval Noah Harari
+- The Untold History of the United States - Oliver Stone &  Peter Kuznick
+
+Jérôme Cazes : 
+
+- Pour une école publique émancipatrice - Véronique Decker
+- Au cœur des ténèbres - Joseph Conrad
+
+
 ### GIEC : Le climat survivra-t-il au capitalisme ? Jouzel & Larrouturou
 
 > 27 septembre 2019
