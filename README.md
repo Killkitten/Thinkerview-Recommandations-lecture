@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Médias, les nouveaux GUIGNOLS ? Bruno Gaccio
+
+> 16 octobre 2019
+> [youtube](https://youtu.be/TFk_w_N2xXM)
+
+- Manuel indocile de sciences sociales - FONDATION COPERNIC
+- Et l'homme créa les dieux - Pascal Boyer
+- Qui a tué mon père - Édouard Louis
+
 ### L'explosion des banques ? Christophe Nijdam & Jérôme Cazes
 
 > 9 octobre 2019
