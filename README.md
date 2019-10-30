@@ -6,6 +6,24 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Clientélisme politique et Moyen-Orient : Agnès Levallois et Pierre Conesa 
+
+> 24 octobre 2019
+> [youtube](https://youtu.be/MdtxJxaF_0w)
+
+Agnès Levallois :
+
+- Atlas du Moyen-Orient. Aux racines de la violence - Jean-Paul Chagnollaud et Pierre Blanc
+- J’ai couru vers le Nil - Alaa al-Aswany
+- La ceinture - Ahmed Abodehman
+- Syrie, l'Etat de barbarie - Michel Seurat 
+
+Pierre Conesa :
+
+- Au coeur des services spéciaux: La menace islamiste : fausses pistes et vrais dangers - Alain Chouet
+- La Fabrication de l'ennemi: ou Comment tuer avec sa conscience pour soi - Pierre Conesa
+- Le Califat, histoire politique de l'Islam - Nabil Mouline
+
 ### Médias, les nouveaux GUIGNOLS ? Bruno Gaccio
 
 > 16 octobre 2019
