@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Europe, dictature technocratique ? Costa-Gavras
+
+> 4 novembre 2019
+> [youtube](https://youtu.be/fNylkT2QW4U)
+
+- Yánis Varoufákis
+- Victor Hugo
+- Honoré de Balzac
+
 ### Clientélisme politique et Moyen-Orient : Agnès Levallois et Pierre Conesa 
 
 > 24 octobre 2019
