@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L’agroalimentaire vu de l’intérieur, intoxication ? Christophe Brusset
+
+> 7 novembre 2019
+> [youtube](https://youtu.be/lXXp-PVQ0HQ)
+
+- Trilogie autobiographique de Jacques Vingtras - Jules Vallès
+- Mémoires de guerre - Charles de Gaulle
+- Tribulations d'un précaire - Iain Levison
+
+Livres cités pendant l'interview :
+
+- Et maintenant, on mange quoi ? : Un ancien industriel de l'agroalimentaire vous aide à faire les bons choix - Christophe Brusset
+- L'Empire de l'or rouge - Jean-Baptiste Malet
+
 ### Europe, dictature technocratique ? Costa-Gavras
 
 > 4 novembre 2019
