@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Camisole numérique pour votre bien ? Gilles Babinet
+
+> 14 novembre 2019
+> [youtube](https://youtu.be/V4yf3HOEHPk)
+
+- The Rise and Fall of the Great Powers: Economic Change and Military Conflict from 1500 to 2000 - Paul Kennedy
+- La Formation de l'esprit scientifique - Gaston Bachelard
+
 ### L’agroalimentaire vu de l’intérieur, intoxication ? Christophe Brusset
 
 > 7 novembre 2019
