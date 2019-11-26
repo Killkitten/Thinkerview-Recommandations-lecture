@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Crise de la masculinité ? Francis Dupuis-Déri
+
+> 21 novembre 2019
+> [youtube](https://youtu.be/ndXqR_aWHcU)
+
+- J’haïs les féministes - Mélissa Blais 
+- Antiféminismes et masculinismes d'hier et d'aujourd'hui - Christine Bard, Mélissa Blais & Francis Dupuis-Déri
+- The Terror Dream - Susan Faludi
+- Le Boys' club - Martine Delvaux
+- Backlash : La guerre froide contre les femmes - Susan Faludi
+- Ne suis-je pas une femme ? : Femmes noires et féminisme  - Bell Hooks
+- La pensée féministe noire - Patricia Hill Collins 
+
 ### Camisole numérique pour votre bien ? Gilles Babinet
 
 > 14 novembre 2019
