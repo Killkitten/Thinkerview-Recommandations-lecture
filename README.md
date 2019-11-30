@@ -6,6 +6,13 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Propagande et contre-propagande ? Christophe Stalla-Bourdillon
+
+> 26 novembre 2019
+> > [youtube](https://youtu.be/1sOgeAeBZ1I)
+
+Pas de recommandation lecture. 
+
 ### Crise de la masculinité ? Francis Dupuis-Déri
 
 > 21 novembre 2019
