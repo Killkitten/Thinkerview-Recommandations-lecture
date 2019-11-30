@@ -9,7 +9,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 ### Propagande et contre-propagande ? Christophe Stalla-Bourdillon
 
 > 26 novembre 2019
-> > [youtube](https://youtu.be/1sOgeAeBZ1I)
+> [youtube](https://youtu.be/1sOgeAeBZ1I)
 
 Pas de recommandation lecture. 
 
