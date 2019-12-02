@@ -684,3 +684,17 @@ Pas de recommandation lecture faite.
 > 19 septembre 2018
 
 - Les romans policiers de Fred Vargas
+
+### Etienne Chouard
+
+> 4 août 2017
+> [youtube](https://www.youtube.com/watch?v=DROqR_7EKvs&t=6964s)
+
+- L'Éthique hacker - Pekka Himanen
+- L'anarchie sans le désordre - Pierre-Joseph Proudhon
+- La finance de l'ombre a pris le contrôle -  Myret Zaki, Dominique Morisod 
+- Du Nouvel Esprit des Lois et de la Monnaie - Valérie Bugault
+- Reprendre le contrôle de la dette - Lord Adair Turner 
+- Principes élémentaires de propagande de guerre: Utilisables en cas de guerre froide, chaude ou tiède... - Anne Morelli 
+- Camp planétaire : un danger bien réel - Denis Dupré
+- Henri Guillemin et la Commune - le Moment du Peuple ? - Edouard Mangin
