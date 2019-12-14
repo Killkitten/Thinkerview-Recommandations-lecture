@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Guerre économique, surveillance de masse ? Cédric O
+
+> 12 décembre 2019
+> [youtube](https://youtu.be/MJ7ZOn222Ig)
+
+- L'Art de perdre - Alice Zeniter
+- L'Homme qui aimait les chiens - Leonardo Padura
+- La Griffe du chien - Don Winslow
+
 ### Propagande et contre-propagande ? Christophe Stalla-Bourdillon
 
 > 26 novembre 2019
