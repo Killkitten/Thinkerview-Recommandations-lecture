@@ -16,6 +16,14 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 - Sobriété numérique - Les clés pour agir - Frédéric Bordage
 - Une brève histoire du futur : Comment la science va changer le monde - Michio Kaku
 
+Livres cités pendant l'interview:
+
+- Ravage - René Barjavel 
+- Le mythe de la fin du monde de l'Antiquité à 2012 - Luc Mary
+- Comment tout peut s'effondrer. Petit manuel de collapsologie à l'usage des générations présentes - Pablo Servigne & Raphael Stevens 
+- Pourquoi tout va s'effondrer - Julien Wosnitza
+- La guerre des métaux rares: La face cachée de la transition énergétique et numérique - Guillaume Pitron
+
 ### Guerre économique, surveillance de masse ? Cédric O
 
 > 12 décembre 2019
