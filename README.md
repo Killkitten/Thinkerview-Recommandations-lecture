@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'enfumage de la transition écologique ? Guillaume Pitron
+
+> 18 décembre 2019
+> [youtube](https://www.youtube.com/watch?v=2lHTHINmNVk)
+
+- La Nuit des temps - René Barjavel
+- Le modèle Tesla - Du toyotisme au teslisme : la disruption d'Elon Musk - Michael Valentin
+- Sobriété numérique - Les clés pour agir - Frédéric Bordage
+- Une brève histoire du futur : Comment la science va changer le monde - Michio Kaku
+
 ### Guerre économique, surveillance de masse ? Cédric O
 
 > 12 décembre 2019
@@ -119,11 +129,11 @@ Jean Jouzel :
 - Pour éviter le chaos climatique et financier - Jean Jouzel & Pierre Larrouturou
 
  Pierre Larrouturou : 
- 
+
  - Perdre la Terre - Nathaniel Rich
- 
+
  Livre des invités : 
- 
+
  - Finance, Climat, Réveillez-vous ! - Anne Hessel & Jean Jouzel & Pierre Larrouturou
 
 ### Un prix Nobel face au krach à venir ? Joseph Stiglitz
