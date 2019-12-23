@@ -6,6 +6,21 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Macron : les réseaux secrets ? Marc Endeweld
+
+> 19 décembre 2019
+> [youtube](https://youtu.be/PvfXlbk-n9c)
+
+- Ce que la vie signifie pour moi - Jack London
+- Les patrons de la presse nationale: tous mauvais - Jean Stern
+- Corruption - Don Wislow 
+
+Livres de l'invité :
+
+- France Télévisions, Off the Record: Histoires secrètes d'une télé publique sous influences
+- L'ambigu Monsieur Macron
+- Le grand manipulateur
+
 ### L'enfumage de la transition écologique ? Guillaume Pitron
 
 > 18 décembre 2019
