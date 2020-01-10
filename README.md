@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Humour, pensée formatée et politiquement correct ? Thomas Wiesel
+
+> 7 janvier 2020
+> [youtube](https://youtu.be/GyoW77ZervA)
+
+- David Thorne
+- Paul Auster
+- Frédéric Beigbeder
+
 ### Macron : les réseaux secrets ? Marc Endeweld
 
 > 19 décembre 2019
