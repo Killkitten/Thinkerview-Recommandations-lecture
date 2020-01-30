@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La religion de la croissance économique? Delphine Batho
+
+> 29 janvier 2020
+> [youtube](https://youtu.be/K_fsNDjhwks)
+
+- Les Furtifs - Alain Damasio
+- L'Arbre-Monde - Richard Powers
+- Une écologie décoloniale - Malcom Ferdinand
+
 ### Humour, pensée formatée et politiquement correct ? Thomas Wiesel
 
 > 7 janvier 2020
