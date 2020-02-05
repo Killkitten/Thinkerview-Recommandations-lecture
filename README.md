@@ -6,6 +6,35 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Les politiques, l'important c'est pas la chute ? Virginie Martin
+
+> 4 février 2020
+> [youtube](https://youtu.be/RgmLorXQpNM)
+
+Un livre par auteur cité : 
+
+- Le temps des investis - Michel Feher
+- Ce monde qui nous echappe - Virginie Martin
+- Garde-corps - Virginie Martin
+- Traité d'économie hérétique: Pour en finir avec le discours dominant - Thomas Porchet
+- Comprendre le féminisme - Marie-Hélène Bourcier
+- Féminisme pour les 99 %. Un manifeste - Nancy Fraser
+- Trouble dans le sujet, trouble dans les normes - Judith Butler
+- Histoire de la sexualité - Michel Faucault
+- L'Éthique aujourd'hui : maximalistes et minimalistes - Ruwen Ogien
+- Identités et cultures - Stuart Hall
+- Géographie de la colère : La violence à l'âge de la globalisation - Arjun Appadurai
+- L'exploitation domestique - Chrisitine Delphi
+- Les couilles sur la table - Victoire Tuaillon
+
+Recommandations Séries/films : 
+
+- Parasites de Bong Joon-ho
+- Scandale
+- Murder
+- Mad Men
+- Ugly Betty
+
 ### La religion de la croissance économique? Delphine Batho
 
 > 29 janvier 2020
