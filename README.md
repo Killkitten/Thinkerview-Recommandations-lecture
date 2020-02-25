@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Général 5 étoiles face à la bombe nucléaire ? Bernard Norlai
+
+> 24 février 2020
+> [youtube](https://youtu.be/hTl3XDZLQ0Q)
+
+- La guerre qui ne peut pas avoir lieu: Essai de métaphysique nucléaire - Jean-Pierre Dupuy
+- Armes nucléaires: et si elles ne servaient à rien? 5 mythes à déconstruire - Ward Wilson
+
 ### Les politiques, l'important c'est pas la chute ? Virginie Martin
 
 > 4 février 2020
