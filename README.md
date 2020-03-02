@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Collapsologie, anxiété et dépression ? Glenn Albrecht
+
+> 28 février 2020
+> [youtube VO](https://youtu.be/n7yxxa4iFwc) | [youtube VF](https://youtu.be/z-boL89uKLo)
+
+- Les émotions de la Terre Des nouveaux mots pour un nouveaux monde - Glenn Albrecht
+- Underland: A Deep Time Journey - Robert Macfarlane
+- Thinking Like a Mountain - Aldo Leopold
+- Le Pèlerin - John Alec Baker 
+
 ### Général 5 étoiles face à la bombe nucléaire ? Bernard Norlai
 
 > 24 février 2020
