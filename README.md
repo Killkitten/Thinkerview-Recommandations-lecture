@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Migrants/Réfugiés, le grand scandale ? Jean Ziegler
+
+> 3 mars 2020
+> [youtube](https://youtu.be/MLOQAZXwVWQ)
+
+- Lesbos, la honte de l'Europe - Jean Ziegler
+- Les souvenirs viennent à ma rencontre - Edgar Morin
+- Le Siècle du populisme - Pierre Rosanvallon
+
 ### Collapsologie, anxiété et dépression ? Glenn Albrecht
 
 > 28 février 2020
