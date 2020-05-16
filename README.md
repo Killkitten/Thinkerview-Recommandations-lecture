@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Insurrections, Espions, COVID-19, Crise mondiales. Bernard Squarcini
+
+> 15 mai 2020
+> [youtube](https://youtu.be/AY2tCBZZy5I)
+
+- Audiard - Michel Audiard 
+- La taupe - John Le Carré
+- Le fil de l'épée - Charles de Gaulle 
+
 ### Migrants/Réfugiés, le grand scandale ? Jean Ziegler
 
 > 3 mars 2020
