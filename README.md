@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### COVID-19, Crise financière, Chine, Menace sur la France. Christian Harbulot
+
+> 20 mai 2020
+> [youtube](https://youtu.be/QMgfIVYqZTM)
+
+- Sans patrie ni frontières - Jan Valtin
+- L'identité économique de la France - David Todd
+- La Guerre froide de la France - Georges-Henri Soutou
+
 ### Insurrections, Espions, COVID-19, Crise mondiales. Bernard Squarcini
 
 > 15 mai 2020
