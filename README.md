@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### COVID-19, panique sociale, scientifique et politique ? Philippe Douste-Blazy
+
+> 27 mai 2020
+> [youtube](https://youtu.be/yAi_GKbpKUQ)
+
+- Mémoires de guerre - Charles de Gaulle
+- Les Fleurs du Mal - Charles Baudelaire
+- Stefan Zweig
+
 ### COVID-19, Crise financière, Chine, Menace sur la France. Christian Harbulot
 
 > 20 mai 2020
