@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Choc économique : Perspectives alternatives ? Isabelle Delannoy
+
+> 3 juin 2020
+> [youtube](https://youtu.be/xQ3BoOCSdXE)
+
+- Le Choc amoureux - Francesco Alberoni
+- Penser la terre - Tim Fridtjof Flannery 
+- Rêver l'obscur : femmes, magie et politique - Starhawk
+
 ### Un monde malade : quelles sont les pistes ? DataGueule
 
 > 3 juin 2020
