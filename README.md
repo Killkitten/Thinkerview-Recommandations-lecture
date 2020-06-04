@@ -6,6 +6,21 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Un monde malade : quelles sont les pistes ? DataGueule
+
+> 3 juin 2020
+> [youtube](https://youtu.be/Fd0_wdle4Ts)
+
+Henri Poulain :
+
+- Quatuor de Los Angeles - James Ellroy
+
+Sylvain Lapoix : 
+
+- La Gouvernance par les nombres - Alain Supiot
+- Les dépossédés - Ursula Le Guin
+-  Americanah - Chimamanda Ngozi Adichie
+
 ### COVID-19, panique sociale, scientifique et politique ? Philippe Douste-Blazy
 
 > 27 mai 2020
