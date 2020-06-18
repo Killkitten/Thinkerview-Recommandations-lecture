@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Solidité du système financier et des retraites ? F.X. Selleret et P. Sabatier 
+
+> 17 juin 2020
+> [youtube](https://youtu.be/NS8acSbI1Bs)
+
+François-Xavier Selleret :
+
+- De Gaulle - Jean Lacouture
+- Le Monde d'hier, souvenirs d'un Européen - Stefan Zweig
+- Lettres à un jeune poète - Rainer Maria Rilke
+
+Pierre Sabatier : 
+
+- Chroniques italiennes - Stendhal
+- Le Cygne noir - Nassim Nicholas Taleb
+
 ### Choc économique : Perspectives alternatives ? Isabelle Delannoy
 
 > 3 juin 2020
