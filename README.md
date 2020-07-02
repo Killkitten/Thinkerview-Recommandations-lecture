@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'espion, le Covid et le truand ? Maxime Renahy
+
+> 1er juillet 2020
+> [youtube](https://youtu.be/-NN89JhzOvk)
+
+- Soliloques - Marc-Aurèle
+- Algues vertes, l’histoire interdite - Inès Leraud
+- La convivialité - Ivan Illich
+
 ### Solidité du système financier et des retraites ? F.X. Selleret et P. Sabatier 
 
 > 17 juin 2020
