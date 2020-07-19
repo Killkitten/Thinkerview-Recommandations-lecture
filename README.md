@@ -6,6 +6,26 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Souveraineté numérique, la douche froide ? Tariq Krim et Bernard Benhamou
+
+> 17 juillet 2020
+> [youtube](https://youtu.be/2iErDLlIlG4)
+
+Bernard Benhamou :
+
+- The Age of Surveillance Capitalism - Shoshana Zuboff
+- Code et autres lois du cyberespace - Lawrence Lessig
+- Black Box Society - Frank Pasquale
+- The Entrepreneurial State: Debunking Public vs. Private Sector Myths - Mariana Mazzucato
+
+Tariq Krim :
+
+- Fatherland - Robert Harris
+- Swastika Night - Katharine Burdekin
+- Alone Together: Why We Expect More from Technology and Less from Each Other - Sherry Turkle
+- Terminal Compromise: Computer Terrorism in a Networked Society - Winn Schwartau
+- Le nid du coucou - Clifford Stoll
+
 ### L'espion, le Covid et le truand ? Maxime Renahy
 
 > 1er juillet 2020
