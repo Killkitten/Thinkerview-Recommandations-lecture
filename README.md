@@ -6,6 +6,17 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Crise économique, débats interdits en France ? Jean-Paul Fitoussi 
+
+> 10 septembre 2020
+> [youtube](https://youtu.be/KelxO3PYthI)
+
+- Le prix de l'inégalité - Joseph E. Stiglitz
+- Le nouvel âge des inégalités - Jean-Paul Fitoussi 
+- Comme on nous parle : l'emprise de la novlangue sur nos sociétés - Jean-Paul Fitoussi 
+- Choix collectifs et préférences individuelles - Kenneth J. Arrow
+- Rational Fools: A Critique of the Behavioral Foundations of Economic Theory - Amartya K. Sen
+
 ### Souveraineté numérique, la douche froide ? Tariq Krim et Bernard Benhamou
 
 > 17 juillet 2020
