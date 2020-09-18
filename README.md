@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Les sangsues de la République ? Isabelle Saporta
+
+> 17 septembre 2020
+> [youtube](https://youtu.be/4DJkr2whd5g)
+
+- L'homme, la faune sauvage et la peste - Serge Morand
+- On a tous un ami noir - François Gemenne 
+- La promesse de l'aube - Romain Gary
+- A la recherche du temps perdu - Marcel Proust
+
 ### Crise économique, débats interdits en France ? Jean-Paul Fitoussi 
 
 > 10 septembre 2020
