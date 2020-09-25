@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Chaos économique, blanchiment bancaire ? Gaël Giraud 
+
+> 25 septembre 2020
+> [youtube](https://youtu.be/-8j8xgkZxuE)
+
+- The road to unfreedom: Russia, Europe, America - Timothy Snyder
+- Une monnaie écologique - Alain Grandjean & Nicolas Dufrêne
+- The Age of Sustainability - Mark Swilling
+
 ### Les sangsues de la République ? Isabelle Saporta
 
 > 17 septembre 2020
