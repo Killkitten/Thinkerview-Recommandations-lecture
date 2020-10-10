@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La fin d’un monde commun ? Éric Sadin
+
+> 6 octobre 2020
+> [youtube](https://youtu.be/suHXQfpBTxM)
+
+- Le quai des Wigan - George Orwell
+- Le Principe espérance - Ernst Bloch
+- Le public et ses problèmes - John Dewey
+
 ### Chaos économique, blanchiment bancaire ? Gaël Giraud 
 
 > 25 septembre 2020
