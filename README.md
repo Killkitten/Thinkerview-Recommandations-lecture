@@ -6,6 +6,21 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Adieu les cons, transhumance suicidaire ? Albert Dupontel
+
+> 14 octobre 2020
+> [youtube](https://youtu.be/vrus2Jwi67A) - [peertube](https://thinkerview.video/videos/watch/c1907464-557d-4009-9347-6bda8f6e6456) - [captainfact](https://captainfact.io/videos/gx13)
+
+- Éloge de la fuite - Henri Laborit
+- De l'inégalité parmi les sociétés - Jared Diamond
+- Les Travailleurs de la mer - Victor Hugo
+
+3 films sont également cités :
+
+- Being There - Hal Ashby
+- Un condamné à mort s'est échappé - Robert Bresson
+- Brazil - Terry Gilliam
+
 ### La fin d’un monde commun ? Éric Sadin
 
 > 6 octobre 2020
