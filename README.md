@@ -6,6 +6,21 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Le futur, entre 5G et Amish ? Nicolas Meilhan et Philippe Bihouix
+> 14 octobre 2020
+> [youtube](https://youtu.be/E7QnwVx2fY0)
+
+Nicolas Meilhan :
+
+- Les Limites à la croissance - Donella Meadows, Dennis Meadows, Jørgen Randers & William W. Behrens III
+- L'Âge des low tech - Philippe Bihouix
+- Or noir. La grande Histoire du pétrole - Matthieu Auzanneau
+
+Philippe Bihouix :
+
+- Énergie et équité - Ivan Illich
+- La politique de l'oxymore - Bertrand Méheust
+
 ### Adieu les cons, transhumance suicidaire ? Albert Dupontel
 
 > 14 octobre 2020
