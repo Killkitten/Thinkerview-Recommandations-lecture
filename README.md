@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Nager avec les requins ? Denis Robert
+> 29 octobre 2020
+> [youtube](https://youtu.be/GBuEgZwTaAM)
+
+- L'oeuvre de Fabrizio Calvi
+- Tokyo-Montana Express - Richard Brautigan
+- Zone grise - Loulou Robert
+
 ### Le futur, entre 5G et Amish ? Nicolas Meilhan et Philippe Bihouix
 > 14 octobre 2020
 > [youtube](https://youtu.be/E7QnwVx2fY0)
