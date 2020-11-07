@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'État démissionnaire ? Anne-Laure Kiechel
+> 6 novembre 2020
+> [youtube](https://youtu.be/_eCIeFpCLSw)
+
+- Femmes invisibles - Caroline Criado Perez
+- Dette, 5000 ans d'histoire - David Graeber
+- Les Buddenbrook - Thomas Mann
+
 ### Nager avec les requins ? Denis Robert
 > 29 octobre 2020
 > [youtube](https://youtu.be/GBuEgZwTaAM)
