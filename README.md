@@ -6,6 +6,34 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Le Covid, les fake news, les journalistes ? Noël Mamère
+> 12 novembre 2020
+> [youtube](https://youtu.be/wk1c5BXumB0)
+
+- La Cité écologique - Serge Audier
+- La dictature de l'audimat - Noël Mamère
+- Les Cerceuils de zinc - Svetlana Alexievitch 
+- La Supplication - Svetlana Alexievitch 
+- La Fin de l'homme rouge - Svetlana Alexievitch 
+- L'élite au pouvoir - Charles Wright Mills
+- Propagandes - Jacques Ellul
+- Les gardiens de la raison - Stéphane FOUCART, Stéphane HOREL & Sylvain LAURENS
+- Le printemps silencieux - Rachel Carson 
+- L'Entraide, un facteur de l'évolution - Pierre Kropotkine
+- Underground Railroad - Colson Whitehead
+- Nickel boys - Colson Whitehead
+- Walden ou la Vie dans les bois - Henry David Thoreau
+- La désobéissance civile - Henry David Thoreau
+- La Silicolonisation du monde - Eric Sadin 
+- L' Intelligence artificielle ou l’enjeu du siècle - Eric Sadin 
+- La technique ou l'enjeu du siecle - Jacques Ellul
+- L'ère de l'individu tyran - Eric Sadin
+- Salina - Laurent Gaudé
+- Sur la piste animale - Baptiste Maurizot
+- Manières d'être vivant - Baptiste Maurizot
+- Les terrestres - Noël Mamère
+- Où atterrir ? - Bruno Latour
+
 ### L'État démissionnaire ? Anne-Laure Kiechel
 > 6 novembre 2020
 > [youtube](https://youtu.be/_eCIeFpCLSw)
