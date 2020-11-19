@@ -6,9 +6,17 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### France : réveiller nos vieux démons ? Arnaud Montebourg [ En direct ]
+> 18 novembre 2020
+> [youtube](https://youtu.be/Q6SIxUA_Ans)
+
+- D'un siècle l'autre - Régis Debray
+- Sauver l'Europe ! - Hubert Védrine
+- 40 ans d'austérité salariale: Comment en sortir ? - Patrick Artus
+
 ### Le Covid, les fake news, les journalistes ? Noël Mamère
 > 12 novembre 2020
-> [youtube](https://youtu.be/wk1c5BXumB0)
+> [youtube](https://youtu.be/wk1c5BXumB0) - [peertube](https://thinkerview.video/videos/watch/28235b7f-cc5e-4b73-9440-86c370e2a33c)
 
 - La Cité écologique - Serge Audier
 - La dictature de l'audimat - Noël Mamère
@@ -36,7 +44,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 
 ### L'État démissionnaire ? Anne-Laure Kiechel
 > 6 novembre 2020
-> [youtube](https://youtu.be/_eCIeFpCLSw)
+> [youtube](https://youtu.be/_eCIeFpCLSw) - [peertube](https://thinkerview.video/videos/watch/8ac4f2d1-d693-4cf2-af80-04ff4928ede0)
 
 - Femmes invisibles - Caroline Criado Perez
 - Dette, 5000 ans d'histoire - David Graeber
@@ -44,7 +52,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 
 ### Nager avec les requins ? Denis Robert
 > 29 octobre 2020
-> [youtube](https://youtu.be/GBuEgZwTaAM)
+> [youtube](https://youtu.be/GBuEgZwTaAM) - [peertube](https://thinkerview.video/videos/watch/61b65430-ab58-43ba-9b59-20f507cd8619)
 
 - L'oeuvre de Fabrizio Calvi
 - Tokyo-Montana Express - Richard Brautigan
@@ -52,7 +60,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 
 ### Le futur, entre 5G et Amish ? Nicolas Meilhan et Philippe Bihouix
 > 14 octobre 2020
-> [youtube](https://youtu.be/E7QnwVx2fY0)
+> [youtube](https://youtu.be/E7QnwVx2fY0) - [peertube](https://thinkerview.video/videos/watch/e7e3ca14-bef3-462f-af71-8a1bf40211cb)
 
 Nicolas Meilhan :
 
@@ -83,7 +91,7 @@ Philippe Bihouix :
 ### La fin d’un monde commun ? Éric Sadin
 
 > 6 octobre 2020
-> [youtube](https://youtu.be/suHXQfpBTxM)
+> [youtube](https://youtu.be/suHXQfpBTxM) - [peertube](https://thinkerview.video/videos/watch/7e04626d-3c27-4d62-bc7a-9506cd84e7db)
 
 - Le quai des Wigan - George Orwell
 - Le Principe espérance - Ernst Bloch
@@ -92,7 +100,7 @@ Philippe Bihouix :
 ### Chaos économique, blanchiment bancaire ? Gaël Giraud 
 
 > 25 septembre 2020
-> [youtube](https://youtu.be/-8j8xgkZxuE)
+> [youtube](https://youtu.be/-8j8xgkZxuE) - [peertube](https://thinkerview.video/videos/watch/ad6a6435-d0e1-40a2-a93b-c1a309dc4c2e)
 
 - The road to unfreedom: Russia, Europe, America - Timothy Snyder
 - Une monnaie écologique - Alain Grandjean & Nicolas Dufrêne
