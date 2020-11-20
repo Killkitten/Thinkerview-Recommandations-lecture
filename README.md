@@ -6,7 +6,7 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-### France : réveiller nos vieux démons ? Arnaud Montebourg [ En direct ]
+### France : réveiller nos vieux démons ? Arnaud Montebourg
 > 18 novembre 2020
 > [youtube](https://youtu.be/Q6SIxUA_Ans)
 
