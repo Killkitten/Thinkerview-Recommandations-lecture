@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'espion qui nous veut du bien ? Marc Eichinger
+> 01 décembre 2020
+> [youtube](https://youtu.be/jGAjuM5Nb4A)
+
+- Lève‑toi et tue le premier: L'histoire secrète des assassinats ciblés commandités par Israël - Ronen Bergman
+- Mes missions secrètes - Mémoires du plus audacieux des commandos d'Hitler - Otto Skorzeny
+- L'homme qui en savait beaucoup trop - Révélations d'un agent au coeur des secrets d'Etat - Marc Eichinger
+
 ### France : réveiller nos vieux démons ? Arnaud Montebourg
 > 18 novembre 2020
 > [youtube](https://youtu.be/Q6SIxUA_Ans)
