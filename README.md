@@ -6,9 +6,18 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Journalisme de façade, de cour, de trottoir ? Julia Cagé 
+> 08 décembre 2020
+> [youtube](https://youtu.be/0txop8vnaIU)
+
+- Il faut s'adapter  - Barbara Stiegler
+- Hannah Arendt
+- 4 3 2 1 - Paul Auster
+- Sortir de notre impuissance politique - Geoffroy de Lagasnerie
+
 ### L'espion qui nous veut du bien ? Marc Eichinger
 > 01 décembre 2020
-> [youtube](https://youtu.be/jGAjuM5Nb4A)
+> [youtube](https://youtu.be/jGAjuM5Nb4A) - [peertube](https://thinkerview.video/videos/watch/a7e942a9-3d1f-4f56-bf89-ec2005d2172b)
 
 - Lève‑toi et tue le premier: L'histoire secrète des assassinats ciblés commandités par Israël - Ronen Bergman
 - Mes missions secrètes - Mémoires du plus audacieux des commandos d'Hitler - Otto Skorzeny
@@ -16,7 +25,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 
 ### France : réveiller nos vieux démons ? Arnaud Montebourg
 > 18 novembre 2020
-> [youtube](https://youtu.be/Q6SIxUA_Ans)
+> [youtube](https://youtu.be/Q6SIxUA_Ans) - [peertube](https://thinkerview.video/videos/watch/fba6174d-24b1-49bf-8701-7101d4e805cd)
 
 - D'un siècle l'autre - Régis Debray
 - Sauver l'Europe ! - Hubert Védrine
