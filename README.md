@@ -6,6 +6,27 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La police en déconfiture ? Alexandre Langlois et Noam Anouar
+> 08 décembre 2020
+> [youtube](https://youtu.be/zPneHz0MuKQ)
+
+Noam Anouar :
+
+-
+-
+-
+
+Alexandre Langlois :
+
+-
+-
+-
+
+Mentionnés :
+
+- La France doit savoir - Noam Anouar (1h38)
+- L'Ennemi de l'Intérieur - Alexandre Langlois (1h38)
+
 ### Journalisme de façade, de cour, de trottoir ? Julia Cagé 
 > 08 décembre 2020
 > [youtube](https://youtu.be/0txop8vnaIU)
