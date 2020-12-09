@@ -10,19 +10,19 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 > 08 décembre 2020
 > [youtube](https://youtu.be/zPneHz0MuKQ)
 
-Noam Anouar :
-
--
--
--
-
 Alexandre Langlois :
 
--
--
--
+- Propaganda - Edward Bernays
+- Le viol des foules par la propagande politique - Serge Tchakhotine
+- Diogène de Sinope
 
-Mentionnés :
+Noam Anouar :
+
+- L'estime de soi - Christophe André
+- Le Mariage de Figaro - Pierre-Augustin Caron de Beaumarchais
+- Du contrat social - Jean-Jacques Rousseau
+
+Livres cités pendant l'interview :
 
 - La France doit savoir - Noam Anouar (1h38)
 - L'Ennemi de l'Intérieur - Alexandre Langlois (1h38)
