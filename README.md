@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Partout où nécessité fait loi ? Cédric Herrou
+> 17 décembre 2020
+> [youtube](https://youtu.be/sSidiNHSFIo)
+
+- Change ton monde - Cédric Herrou & Michel Henry
+
 ### La police en déconfiture ? Alexandre Langlois et Noam Anouar
 > 08 décembre 2020
 > [youtube](https://youtu.be/zPneHz0MuKQ)
