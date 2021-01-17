@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La Justice face aux Politiques, aux terroristes ? Béatrice Brugère
+> 15 janvier 2021
+> [youtube](https://youtu.be/BsSxYvltlXA)
+
+- La part du héros - Andrea Marcolongo
+- La Crise de la culture - Hannah Arendt
+- Éloge de la fuite - Henri Laborit
+
 ### Partout où nécessité fait loi ? Cédric Herrou
 > 17 décembre 2020
 > [youtube](https://youtu.be/sSidiNHSFIo)
