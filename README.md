@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### En route vers la dictature ? Christophe Deloire 
+> 21 janvier 2021
+> [youtube](https://youtu.be/_y2h_fkTrq4)
+
+- Ci-gît l'amer. Guérir du ressentiment - Cynthia_Fleury
+- Les deux clans - David Goodhart
+- Le peuple contre la démocratie - Yascha Mounk
+- La Fin de l'homme rouge - Svetlana Aleksievitch
+
 ### La Justice face aux Politiques, aux terroristes ? Béatrice Brugère
 > 15 janvier 2021
 > [youtube](https://youtu.be/BsSxYvltlXA)
@@ -16,13 +25,13 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 
 ### Partout où nécessité fait loi ? Cédric Herrou
 > 17 décembre 2020
-> [youtube](https://youtu.be/sSidiNHSFIo)
+> [youtube](https://youtu.be/sSidiNHSFIo) - [peertube](https://thinkerview.video/videos/watch/ab488f46-5676-4477-95e9-34da2569a42a)
 
 - Change ton monde - Cédric Herrou & Michel Henry
 
 ### La police en déconfiture ? Alexandre Langlois et Noam Anouar
 > 08 décembre 2020
-> [youtube](https://youtu.be/zPneHz0MuKQ)
+> [youtube](https://youtu.be/zPneHz0MuKQ) - [peertube](https://thinkerview.video/videos/watch/7ba5b960-6fa7-4513-a2cb-7628c97df8da)
 
 Alexandre Langlois :
 
@@ -43,7 +52,7 @@ Livres cités pendant l'interview :
 
 ### Journalisme de façade, de cour, de trottoir ? Julia Cagé 
 > 08 décembre 2020
-> [youtube](https://youtu.be/0txop8vnaIU)
+> [youtube](https://youtu.be/0txop8vnaIU) - [peertube](https://thinkerview.video/videos/watch/cde899e1-392b-464b-b082-c22b5ff68d57)
 
 - Il faut s'adapter  - Barbara Stiegler
 - Hannah Arendt
