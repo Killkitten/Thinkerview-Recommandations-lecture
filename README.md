@@ -10,9 +10,10 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 > 21 janvier 2021
 > [youtube](https://youtu.be/_y2h_fkTrq4)
 
-- z
-- y
-- x
+- Ci-gît l'amer. Guérir du ressentiment - Cynthia_Fleury
+- Les deux clans - David Goodhart
+- Le peuple contre la démocratie - Yascha Mounk
+- La Fin de l'homme rouge - Svetlana Aleksievitch
 
 ### La Justice face aux Politiques, aux terroristes ? Béatrice Brugère
 > 15 janvier 2021
