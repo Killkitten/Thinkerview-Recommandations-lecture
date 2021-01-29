@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### COVID 19 : La faillite occidentale ? Renaud Piarroux 
+> 29 janvier 2021
+> [youtube](https://youtu.be/Gz8QeqOi-sg)
+
+- La Communauté de l'Anneau - J.R.R. Tolkien
+- Les Deux Tours - J.R.R. Tolkien
+- Le Retour du Roi - J.R.R. Tolkien
+- Choléra. Haïti 2010-2018 : histoire d’un désastre - Renaud Piarroux
+
 ### En route vers la dictature ? Christophe Deloire 
 > 21 janvier 2021
 > [youtube](https://youtu.be/_y2h_fkTrq4)
