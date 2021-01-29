@@ -17,7 +17,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 
 ### En route vers la dictature ? Christophe Deloire 
 > 21 janvier 2021
-> [youtube](https://youtu.be/_y2h_fkTrq4)
+> [youtube](https://youtu.be/_y2h_fkTrq4) - [peertube](https://thinkerview.video/videos/watch/67e5e915-b0db-4e4f-b01a-093e0308fc2f)
 
 - Ci-gît l'amer. Guérir du ressentiment - Cynthia_Fleury
 - Les deux clans - David Goodhart
@@ -26,7 +26,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 
 ### La Justice face aux Politiques, aux terroristes ? Béatrice Brugère
 > 15 janvier 2021
-> [youtube](https://youtu.be/BsSxYvltlXA)
+> [youtube](https://youtu.be/BsSxYvltlXA) - [peertube](https://thinkerview.video/videos/watch/148ab095-2611-4efc-bc8b-b474ab7b8017)
 
 - La part du héros - Andrea Marcolongo
 - La Crise de la culture - Hannah Arendt
