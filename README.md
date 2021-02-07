@@ -6,6 +6,17 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### 50 ans d'Utopie ? Yann Arthus-Bertrand
+> 4 février 2021
+> [youtube](https://youtu.be/fnnFQ3Jnd3Q)
+
+- Cap 2030 : Une décennie pour changer le monde - Yann Arthus-Bertrand & Fondation GoodPlanet
+- La Supplication : Tchernobyl, chronique du monde après l'apocalypse - Svetlana Aleksievitch
+- Effondrement: Comment les sociétés décident de leur disparition ou de leur survie - Jared Diamond
+- Les ouvrages de Jean-Marc Jancovici
+- Home - Toni Morrison
+- J'aurais pu devenir millionnaire, j'ai choisi d'être vagabond - Alexis Jenni
+
 ### COVID 19 : La faillite occidentale ? Renaud Piarroux 
 > 29 janvier 2021
 > [youtube](https://youtu.be/Gz8QeqOi-sg)
@@ -19,7 +30,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 > 21 janvier 2021
 > [youtube](https://youtu.be/_y2h_fkTrq4) - [peertube](https://thinkerview.video/videos/watch/67e5e915-b0db-4e4f-b01a-093e0308fc2f)
 
-- Ci-gît l'amer. Guérir du ressentiment - Cynthia_Fleury
+- Ci-gît l'amer. Guérir du ressentiment - Cynthia Fleury
 - Les deux clans - David Goodhart
 - Le peuple contre la démocratie - Yascha Mounk
 - La Fin de l'homme rouge - Svetlana Aleksievitch
