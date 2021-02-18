@@ -6,6 +6,13 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La France en cours de tiers-mondisation ? Yves Jégo
+> 10 février 2021
+> [youtube](https://youtu.be/QdgE0TZjgjs)
+
+- Le Prince des marées - Pat Conroy
+- Les Rougon-Macquart - Emile Zola
+
 ### 50 ans d'Utopie ? Yann Arthus-Bertrand
 > 4 février 2021
 > [youtube](https://youtu.be/fnnFQ3Jnd3Q)
