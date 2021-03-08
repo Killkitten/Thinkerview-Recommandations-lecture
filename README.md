@@ -6,16 +6,25 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Banquier d'affaires face aux crises ? Raphaël Rossello
+> 4 mars 2021 
+> [youtube](https://youtu.be/TzSGHWUDX3A)
+
+- La beauté sauvera le monde - Bernard Bro
+- Essais - Michel de Montaigne
+- Lazard Frères - Guy De Rougemont 
+- L'opportunité du Covid 19 - Raphaël Rossello (Raphaël Rossello a demandé s'il pouvait proposer son livre et l'interviewer lui a refusé - contrairement à d'autres invités)
+
 ### La France en cours de tiers-mondisation ? Yves Jégo
 > 10 février 2021
-> [youtube](https://youtu.be/QdgE0TZjgjs)
+> [youtube](https://youtu.be/QdgE0TZjgjs) - [peertube](https://thinkerview.video/videos/watch/46e08fbf-c50b-47b2-8390-e11490c48930)
 
 - Le Prince des marées - Pat Conroy
 - Les Rougon-Macquart - Emile Zola
 
 ### 50 ans d'Utopie ? Yann Arthus-Bertrand
 > 4 février 2021
-> [youtube](https://youtu.be/fnnFQ3Jnd3Q)
+> [youtube](https://youtu.be/fnnFQ3Jnd3Q) - [peertube](https://thinkerview.video/videos/watch/dcd46af8-0765-4787-856e-16f6b0a45e57)
 
 - Cap 2030 : Une décennie pour changer le monde - Yann Arthus-Bertrand & Fondation GoodPlanet
 - La Supplication : Tchernobyl, chronique du monde après l'apocalypse - Svetlana Aleksievitch
@@ -26,7 +35,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 
 ### COVID 19 : La faillite occidentale ? Renaud Piarroux 
 > 29 janvier 2021
-> [youtube](https://youtu.be/Gz8QeqOi-sg)
+> [youtube](https://youtu.be/Gz8QeqOi-sg) - [peertube](https://thinkerview.video/videos/watch/a9cf9dcb-10f8-4f8d-a1eb-f5278b127c59)
 
 - La Communauté de l'Anneau - J.R.R. Tolkien
 - Les Deux Tours - J.R.R. Tolkien
