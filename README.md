@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Guillaume Meurice : Le bouffon du Roi ?
+> 11 mars 2021
+> [youtube](https://youtu.be/ahgC1HHGgIU)
+
+- Le roi n'avait pas ri - Guillaume Meurice
+- La Dialectique éristique - Arthur Schopenhauer
+- Le Prince - Nicolas Machiavel
+- L'entraide: L'autre loi de la jungle - Gauthier Chapelle et Pablo Servigne
+- Le bonheur était pour demain - Philippe Bihouix
+
 ### Banquier d'affaires face aux crises ? Raphaël Rossello
 > 4 mars 2021 
 > [youtube](https://youtu.be/TzSGHWUDX3A)
