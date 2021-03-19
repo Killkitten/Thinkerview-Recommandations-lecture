@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### France : Corruption à tous les étages ? Elise Van Beneden
+> 17 mars 2021
+> [youtube](https://youtu.be/rrTH31VbdXI)
+
+- Lettre à un enfant jamais né - Oriana Fallaci
+- Un homme - Oriana Fallaci
+- Pénélope à la guerre - Oriana Fallaci
+- L'homme qui savait la langue des serpents - Andrus Kivirähk
+- La colère et le courage : plaidoyer contre la corruption, pour une république éthique - Jean-Christophe Picard
+
 ### Guillaume Meurice : Le bouffon du Roi ?
 > 11 mars 2021
 > [youtube](https://youtu.be/ahgC1HHGgIU)
