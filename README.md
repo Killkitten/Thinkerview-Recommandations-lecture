@@ -6,6 +6,17 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Crise gigantesque en approche ? Gilles Raveaud
+> 1 avril 2021
+> [youtube](https://youtu.be/bIIRor8z1Wk)
+
+- Adieu à la croissance - Jean Gadrey
+- Pour vivre heureux, vivons égaux ! - Kate Pickett & Richard Wilkinson
+- La dispute des économistes -  Gilles Raveaud
+- Achille Talon et l'archipel de Sanzunron - Greg
+- Souriez, vous êtes Français ! - Bernard Maris
+- Lettre ouverte aux socialistes - Maurice Duverger
+
 ### France : Corruption à tous les étages ? Elise Van Beneden
 > 17 mars 2021
 > [youtube](https://youtu.be/rrTH31VbdXI)
