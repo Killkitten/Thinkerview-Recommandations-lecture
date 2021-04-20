@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Les radicalismes religieux et le Lobby Saoudien en France ? Pierre Conesa
+> 16 avril 2021
+> [youtube](https://youtu.be/VgZMOy9AaNA)
+
+- L'Identité de la France - Fernand Braudel
+- Le Licite et l'Illicite en islam - Youssef al-Qaradâwî
+- La trahison des clercs - Julien Benda
+
 ### Crise gigantesque en approche ? Gilles Raveaud
 > 1 avril 2021
 > [youtube](https://youtu.be/bIIRor8z1Wk)
