@@ -6,6 +6,21 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Démocratie : Épiphénomène historique, sécession des élites ? Barbara Stiegler
+> 30 avril 2021
+> [youtube](https://youtu.be/cIjbLK3w5Ks)
+
+- Penser en Chine - Sous la direction d'Anne Cheng - Collection Folio essais
+
+### Covid : aux origines du mal ? Brice Perrier
+> 29 avril 2021
+> [youtube](https://youtu.be/1wul4z8pmzU)
+
+- L’Avenir est notre affaire - Denis de Rougemont
+- Hexis d'un soir - Rodolphe de Maistre
+- La civilisation du cocon - Vincent Coquebert
+- Sars-CoV-2, aux origines du mal - Brice Perrier
+
 ### Les radicalismes religieux et le Lobby Saoudien en France ? Pierre Conesa
 > 16 avril 2021
 > [youtube](https://youtu.be/VgZMOy9AaNA)
