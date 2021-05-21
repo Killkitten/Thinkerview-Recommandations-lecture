@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Philippe de Villiers sans filtre ?
+> 19 mai 2021
+> [youtube](https://youtu.be/q1Lm9aS0Oxg)
+
+- L'oeuvre de Paul Verlaine
+- L'oeuvre de François-René de Chateaubriand
+- Insoumission française - Sonia Mabrouk
+
+### Au cœur des soulèvements ? Gaspard Glanz
+> 18 mai 2021
+> [youtube](https://youtu.be/t85OumT730g)
+
+- La peste - Albert Camus
+- Blouses blanches et Gwenn ha Du - Hugo Melchior
+- Etouffer la révolte : La psychiatrie contre les Civil rights, une histoire du contrôle social - Jonathan M. Metzl
+
 ### Démocratie : Épiphénomène historique, sécession des élites ? Barbara Stiegler
 > 30 avril 2021
 > [youtube](https://youtu.be/cIjbLK3w5Ks)
