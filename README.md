@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Géopolitique : Le désastre Français ? Hubert Védrine
+> 26 mai 2021
+> [youtube](https://youtu.be/I0GImBIkA7Y)
+
+- Le Plan Marshall - Benn Steil
+- Sortir de l'impasse postcoloniale - Philippe San Marco 
+- Paul Morand - Pauline Dreyfus
+
 ### Philippe de Villiers sans filtre ?
 > 19 mai 2021
 > [youtube](https://youtu.be/q1Lm9aS0Oxg)
