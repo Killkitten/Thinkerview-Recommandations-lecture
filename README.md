@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Militaires en colère ? Henri Bentégeat
+> 3 juin 2021
+> [youtube](https://youtu.be/kY5dni2vbVc)
+
+- Les ors de la République. Souvenirs de 7 ans à l'Élysée - Henri Bentégeat
+- Le Rivage des Syrtes - Julien Gracq
+- Un balcon en forêt - Julien Gracq
+- Entrer en stratégie - Vincent Desportes
+
 ### Géopolitique : Le désastre Français ? Hubert Védrine
 > 26 mai 2021
 > [youtube](https://youtu.be/I0GImBIkA7Y)
