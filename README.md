@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La satire avant la guerre ? Bruno Gaccio
+> 10 juin 2021
+> [youtube](https://youtu.be/vJr1PWWvccQ)
+
+- Pour une socioanalyse du journalisme - Alain Accardo
+- Un jour dans notre vie - David Fritz Goeppinger
+- Vice - Laurent Chalumeau
+
 ### Militaires en colère ? Henri Bentégeat
 > 3 juin 2021
 > [youtube](https://youtu.be/kY5dni2vbVc)
