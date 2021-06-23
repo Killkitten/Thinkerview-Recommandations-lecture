@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Pass sanitaire, géopolitique de la Data, copie privée ? Benjamin Bayart et Marc Rees
+> 15 juin 2021
+> [youtube](https://youtu.be/EOWeewlc2CE)
+
+Benjamin Bayart :
+- Cycle de Terremer - Ursula K. Le Guin
+- Surveiller et punir -  Michel Foucault
+- Histoire d'un allemand - Sébastian Haffner
+
+Marc Rees :
+- Le journal officiel et le suivi des amendements de l'Assemblée Nationale 
+- NextImpact
+- Les BD de Jirô Taniguchi
+
 ### La satire avant la guerre ? Bruno Gaccio
 > 10 juin 2021
 > [youtube](https://youtu.be/vJr1PWWvccQ)
