@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### 66% d'abstention : la grande confusion ? Philippe Corcuff
+> 23 juin 2021
+> [youtube](https://youtu.be/tXkMBRsbwz4)
+
+- De la certitude - Ludwig Wittgenstein
+- Martin Eden - Jack London
+- L'Imagination sociologique - Charles Wright Mills
+
 ### Pass sanitaire, géopolitique de la Data, copie privée ? Benjamin Bayart et Marc Rees
 > 15 juin 2021
 > [youtube](https://youtu.be/EOWeewlc2CE)
@@ -97,7 +105,7 @@ Marc Rees :
 
 ### France : Corruption à tous les étages ? Elise Van Beneden
 > 17 mars 2021
-> [youtube](https://youtu.be/rrTH31VbdXI)
+> [youtube](https://youtu.be/rrTH31VbdXI) | [peertube](https://thinkerview.video/videos/watch/3631db5e-92c9-4108-962e-72770126af90)
 
 - Lettre à un enfant jamais né - Oriana Fallaci
 - Un homme - Oriana Fallaci
@@ -107,7 +115,7 @@ Marc Rees :
 
 ### Guillaume Meurice : Le bouffon du Roi ?
 > 11 mars 2021
-> [youtube](https://youtu.be/ahgC1HHGgIU)
+> [youtube](https://youtu.be/ahgC1HHGgIU) - [peertube](https://thinkerview.video/videos/watch/422d65f5-0d16-4735-af3d-2e2d1f8f8146)
 
 - Le roi n'avait pas ri - Guillaume Meurice
 - La Dialectique éristique - Arthur Schopenhauer
@@ -117,7 +125,7 @@ Marc Rees :
 
 ### Banquier d'affaires face aux crises ? Raphaël Rossello
 > 4 mars 2021 
-> [youtube](https://youtu.be/TzSGHWUDX3A)
+> [youtube](https://youtu.be/TzSGHWUDX3A) - [peertube](https://thinkerview.video/videos/watch/6188a4c9-83a7-492f-9357-c7627982f95c)
 
 - La beauté sauvera le monde - Bernard Bro
 - Essais - Michel de Montaigne
