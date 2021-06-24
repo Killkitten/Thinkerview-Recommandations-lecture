@@ -16,8 +16,8 @@ Benjamin Bayart :
 - Histoire d'un allemand - Sébastian Haffner
 
 Marc Rees :
-- Le journal officiel et le suivi des amendements de l'Assemblée Nationale 
-- NextImpact
+- Le [journal officiel](https://www.legifrance.gouv.fr/) et le suivi des [amendements de l'Assemblée Nationale](https://www2.assemblee-nationale.fr/recherche/amendements)
+- [NextInpact](https://www.nextinpact.com/)
 - Les BD de Jirô Taniguchi
 
 ### La satire avant la guerre ? Bruno Gaccio
