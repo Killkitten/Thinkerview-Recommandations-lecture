@@ -13,6 +13,7 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 - De la certitude - Ludwig Wittgenstein
 - Martin Eden - Jack London
 - L'Imagination sociologique - Charles Wright Mills
+- La grande confusion. Comment l'extrême-droite gagne la bataille des idées - Philippe Corcuff
 
 ### Pass sanitaire, géopolitique de la Data, copie privée ? Benjamin Bayart et Marc Rees
 > 15 juin 2021
