@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Pas de prison pour les grands escrocs ? Renaud Van Ruymbeke
+> 6 juillet 2021
+> [youtube](https://youtu.be/7GUPgNXowFw)
+
+- La Vallée d'Obermann -  Franz Liszt (partition pianistique)
+- Le Livre de l'intranquillité - Fernando Pessoa
+- Malicroix - Henri Bosco
+
 ### 66% d'abstention : la grande confusion ? Philippe Corcuff
 > 23 juin 2021
 > [youtube](https://youtu.be/tXkMBRsbwz4)
