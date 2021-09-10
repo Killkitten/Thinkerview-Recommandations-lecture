@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+
+### Le rapport qui annonce l'apocalypse ? Valérie Masson-Delmotte et Pierre Larrouturou
+> 9 septembre 2021
+> [youtube](https://youtu.be/9X4bV9fYkfs)
+
+Valérie Masson-Delmotte :
+- [Rapport du GIEC 2021 (fiches régionales / FAQ)](https://www.ipcc.ch/languages-2/francais/publications/)
+- Abondance et liberté - Pierre Charbonnier
+- [Maitriser l'empreinte carbone de la France - Haut conseil pour le climat](https://www.hautconseilclimat.fr/publications/maitriser-lempreinte-carbone-de-la-france/)
+
+Pierre Larrouturou :
+- aucun livre
+
 ### Pas de prison pour les grands escrocs ? Renaud Van Ruymbeke
 > 6 juillet 2021
 > [youtube](https://youtu.be/7GUPgNXowFw)
