@@ -6,6 +6,13 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La fin de la guerre classique ? Alain Juillet
+> 9 septembre 2021
+> [youtube](https://youtu.be/yq_ok3RHU9Q)
+
+- Le Petit Prince - Antoine de Saint-Exupéry
+- Déjeuners avec les talibans - Jean-yves Berthault
+- La collection l'état du Monde 
 
 ### Le rapport qui annonce l'apocalypse ? Valérie Masson-Delmotte et Pierre Larrouturou
 > 9 septembre 2021
