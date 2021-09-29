@@ -6,6 +6,25 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Le hacking au XXIe siècle ? Zax et Doomer
+> 24 septembre 2021
+> [youtube](https://www.youtube.com/watch?v=1DJ3qTW51FA)
+
+Zax / Brice Augras
+- Metasploit: the penetration tester's guide - Devon Kearns, David Kennedy, Mati Aharoni, Jim O'Gorman
+- (approximativement) Petit traité de manipulation à l'usage des honnêtes - Robert-Vincent Joule et Jean-Léon Beauvois 
+
+Victor Poucheret / Doomer
+- Hacking: The Art of Exploitation - Jon Erickson
+- The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws - Dafydd Stuttard, Marcus Pinto
+- livres sur la philosophie grecque (aucune référence)
+
+### Ambassadeur de Chine sans filtre ? Lu Shaye
+> 22 septembre 2021
+> [youtube](https://www.youtube.com/watch?v=f80zcxsuuS8)
+
+pas encore regardé.
+
 ### La fin de la guerre classique ? Alain Juillet
 > 9 septembre 2021
 > [youtube](https://youtu.be/yq_ok3RHU9Q)
