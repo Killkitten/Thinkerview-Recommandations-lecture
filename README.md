@@ -23,7 +23,7 @@ Victor Poucheret / Doomer
 > 22 septembre 2021
 > [youtube](https://www.youtube.com/watch?v=f80zcxsuuS8)
 
-pas encore regardé.
+- Ouïghours, pour en finir avec les Fake News - Maxime Vivas
 
 ### La fin de la guerre classique ? Alain Juillet
 > 9 septembre 2021
