@@ -6,6 +6,18 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La Finance destructrice de démocratie ? Georges Ugeux
+> 6 octobre 2021
+> [youtube](https://www.youtube.com/watch?v=9AWeWkNhLnQ)
+
+- Wall Street à l’assaut de la démocratie - Georges Ugeux
+- La descente aux enfers de la finance - Georges Ugeux
+- La grande illusion - Michel Barnier
+- L'anomalie - Hervé Le Tellier
+- La dernière chance du capitalisme - Patrick Artus
+- The Third Pillar: How the State and Markets are leaving Communities Behind - Raghuram Rajan
+- The Code of Capital: How the Law Creates Wealth and Inequality - Katarina Pistor
+
 ### Le hacking au XXIe siècle ? Zax et Doomer
 > 24 septembre 2021
 > [youtube](https://www.youtube.com/watch?v=1DJ3qTW51FA)
