@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Journaliste sous les balles ? Régis Le Sommier
+> 12 octobre 2021
+> [youtube](https://youtu.be/2Kj-MPA-OZE)
+
+- Le Vieil Homme et la Mer - Ernest Hemingway
+- De la guerre - Carl von Clausewitz
+- The Bear Went Over the Mountain - Lester W. Grau
+- The Other Side of the Mountain - Ali Jalali & Lester W. Grau
+
 ### La Finance destructrice de démocratie ? Georges Ugeux
 > 6 octobre 2021
 > [youtube](https://www.youtube.com/watch?v=9AWeWkNhLnQ)
