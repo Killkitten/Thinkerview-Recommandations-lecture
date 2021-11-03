@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Réindustrialisation : reprendre son autonomie ? Anais Voy Gillis
+> 27 octobre 2021
+> [youtube](https://youtu.be/7b6HPsqwT2E)
+
+- L'Immeuble Yacoubian - Alaa El Aswany
+- Sur le controle de nos vies - Noam Chomsky
+- La Guerre hors limites - Qiao Liang
+- L'âge productiviste. Hégémonie prométhéenne, brèches et alternatives écologiques - Serge Audier
+
 ### Journaliste sous les balles ? Régis Le Sommier
 > 12 octobre 2021
 > [youtube](https://youtu.be/2Kj-MPA-OZE)
