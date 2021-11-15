@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### De la récession à la crypto ? Raphaël Rossello et Owen Simonin
+> 11 novembre 2021
+> [youtube](https://youtu.be/EBdG-kH6TrU)
+
+Owen Simonin
+- Factfulness - Hans Rosling
+- Outliers: The Story of Success - Malcolm Gladwell
+
+Raphaël Rossello
+- L'opportunité du Covid 19 - Raphaël Rossello
+- Discours de la servitude volontaire - Étienne de La Boétie
+- La Fin de l'histoire et le Dernier Homme - Francis Fukuyama
+- Le Bug humain - Sébastien Bohler 
+
 ### Réindustrialisation : reprendre son autonomie ? Anais Voy Gillis
 > 27 octobre 2021
 > [youtube](https://youtu.be/7b6HPsqwT2E)
