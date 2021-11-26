@@ -6,6 +6,18 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Désamorcer notre impuissance politique ? Eric Sadin 
+> 22 novembre 2021
+> [youtube](https://youtu.be/UlFGkut-j8s)
+
+- L'Enracinement - Simone Weil
+- Communauté - Martin Buber
+- Lti, la langue du IIIème Reich - Victor Klemperer
+- Oeuvre de William Morris
+
+Dernier livre de l'invité : 
+- Faire sécession : une politique de nous-mêmes - Eric Sadin
+
 ### De la récession à la crypto ? Raphaël Rossello et Owen Simonin
 > 11 novembre 2021
 > [youtube](https://youtu.be/EBdG-kH6TrU)
