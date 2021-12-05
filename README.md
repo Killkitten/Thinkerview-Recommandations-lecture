@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Militarisation de la langue ? Clément Viktorovitch
+> 1 décembre 2021
+> [youtube](https://youtu.be/E7e7v-Ig9Ds)
+
+- Influence et manipulation - Robert Cialdini
+- Principes du gouvernement représentatif - Bernard Manin
+- La Zone du Dehors - Alain Damasio
+
+- Petit cours d'autodéfense intellectuelle - Normand Baillargeon
+- L'Art d'avoir toujours raison - Arthur Schopenhauer
+- Système 1 / Système 2 : Les deux vitesses de la pensée - Daniel Kahneman
+- Petit traité de manipulation à l'usage des honnêtes gens - Jean-Léon Beauvois et Vincent Joule
+
+Dernier livre de l'invité : 
+- Le Pouvoir rhétorique - Clément Viktorovitch
+
 ### Désamorcer notre impuissance politique ? Eric Sadin 
 > 22 novembre 2021
 > [youtube](https://youtu.be/UlFGkut-j8s)
