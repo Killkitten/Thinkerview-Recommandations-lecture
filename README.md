@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Science et société, où va-t-on ? Étienne Klein
+> 8 décembre 2021
+> [youtube](https://youtu.be/44Vnvcsd4ME)
+
+- Le Réel et son double - Clément Rosset
+- Le monde à la première personne - Francis Wolff
+- Le Mont Analogue - René Daumal
+
+
+- De la démocratie en Amérique - Alexis de Tocqueville
+- Le pays qu'habitait Albert Einstein - Etienne Klein
+- livre non identifié - Jacques Blamont
+
+Dernier livre de l'invité : 
+- Le Pouvoir rhétorique - Clément Viktorovitch
+
 ### Militarisation de la langue ? Clément Viktorovitch
 > 1 décembre 2021
 > [youtube](https://youtu.be/E7e7v-Ig9Ds)
