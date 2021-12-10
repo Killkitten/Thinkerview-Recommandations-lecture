@@ -19,9 +19,6 @@ Liste des recommandations lecture des invités de ThinkerView (3 livres pour la 
 - Le pays qu'habitait Albert Einstein - Etienne Klein
 - livre non identifié - Jacques Blamont
 
-Dernier livre de l'invité : 
-- Le Pouvoir rhétorique - Clément Viktorovitch
-
 ### Militarisation de la langue ? Clément Viktorovitch
 > 1 décembre 2021
 > [youtube](https://youtu.be/E7e7v-Ig9Ds)
@@ -29,6 +26,7 @@ Dernier livre de l'invité :
 - Influence et manipulation - Robert Cialdini
 - Principes du gouvernement représentatif - Bernard Manin
 - La Zone du Dehors - Alain Damasio
+
 
 - Petit cours d'autodéfense intellectuelle - Normand Baillargeon
 - L'Art d'avoir toujours raison - Arthur Schopenhauer
