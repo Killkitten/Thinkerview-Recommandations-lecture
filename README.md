@@ -71,6 +71,15 @@ Raphaël Rossello
 - La Guerre hors limites - Qiao Liang
 - L'âge productiviste. Hégémonie prométhéenne, brèches et alternatives écologiques - Serge Audier
 
+### Où va la France ? Eric Zemmour
+> 20 octobre 2021
+> [youtube](https://www.youtube.com/watch?v=61AN7Vf4RSs)
+
+- Mémoires d'Outre-Tombe - François-René de Chateaubriand
+- Illusions perdues - Honoré de Balzac
+- Les origines de la France contemporaine - Hippolyte Taine
+- La Semaine Sainte - Louis Aragon
+
 ### Journaliste sous les balles ? Régis Le Sommier
 > 12 octobre 2021
 > [youtube](https://youtu.be/2Kj-MPA-OZE)
