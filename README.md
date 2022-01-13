@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'art de la guerre et du commandement ? Loïc Finaz 
+> 11 janvier 2022
+> [youtube](https://youtu.be/7LHX_hMsFcA)
+
+- L'Usage du monde - Nicolas Bouvier
+- Guerre et Paix  - Léon Tolstoï
+- Les Enfants Jéromine - Ernst Wiechert
+- Qu'est-ce qu'une nation ? - Ernest Renan (durant l'interview)
+- Histoire de la guerre du Péloponnèse - Thucydide (pour le dialogue mélien)
+
 ### Science et société, où va-t-on ? Étienne Klein
 > 8 décembre 2021
 > [youtube](https://youtu.be/44Vnvcsd4ME)
