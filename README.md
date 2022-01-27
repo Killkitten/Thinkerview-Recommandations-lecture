@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'effondrement : le point critique ? Aurore Stéphant
+> 25 janvier 2022
+> [youtube](https://youtu.be/xx3PsG2mr-Y)
+
+- Germinal - Emile Zola
+- Minerais de sang - Christophe Boltanski
+- La Fin de la mégamachine: Sur les traces d'une civilisation en voie d'effondrement - Fabian Scheidler
+
 ### L'art de la guerre et du commandement ? Loïc Finaz 
 > 11 janvier 2022
 > [youtube](https://youtu.be/7LHX_hMsFcA)
