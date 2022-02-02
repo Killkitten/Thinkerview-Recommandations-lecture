@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La France face à la nouvelle mondialisation ? Geoffroy Roux de Bézieux
+> 27 janvier 2022
+> [youtube](https://youtu.be/x6qsHdJNn1E)
+
+- L'Intendance suivra ! De Gaulle et l'Économie - Geoffroy Roux de Bézieux
+- Capitalisme et liberté - Milton Friedman
+- La Flotte fantôme: Le troisième conflit mondial est déjà là - Peter W. Singer
+
 ### L'effondrement : le point critique ? Aurore Stéphant
 > 25 janvier 2022
 > [youtube](https://youtu.be/xx3PsG2mr-Y)
