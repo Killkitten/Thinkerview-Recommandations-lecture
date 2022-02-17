@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Éviter l’effondrement ? Jean-Marc Jancovici et Laurent Morel
+> 9 février 2022
+>  [youtube](https://youtu.be/dmBRwFVQk_M)
+
+- Climat, crises: Le plan de transformation de l'économie française - The Shift Project
+
+Laurent Morel
+- L'Argent - Charles Péguy
+- La Société de consommation - Jean Baudrillard
+- La Chartreuse de Parme - Roman de Stendhal
+
+Jean-Marc Jancovici
+- The Limits to Growth (1972) - Meadows
+- De la démocratie en Amérique - Alexis de Tocqueville
+- Malevil - Robert Merle
+
 ### La France face à la nouvelle mondialisation ? Geoffroy Roux de Bézieux
 > 27 janvier 2022
 > [youtube](https://youtu.be/x6qsHdJNn1E)
