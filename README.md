@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'emprise, la France sous influence ? Marc Endeweld
+> 17 février 2022
+> [youtube](https://youtu.be/HHyUr6RPMSk)
+
+- Requiem pour une République - Thomas Cantaloube
+- Mémoires impubliables - Pierre Péan
+- L'enfer numérique: Voyage au bout d'un Like - Guillaume Pitron
+
+Derniers livres de l'invité : 
+- L'ambigu monsieur Macron - Marc Endeweld
+- Le Grand Manipulateur : Les Réseaux secrets de Macron - Marc Endeweld
+- L'Emprise : La France sous influence - Marc Endeweld
+
 ### Éviter l’effondrement ? Jean-Marc Jancovici et Laurent Morel
 > 9 février 2022
 >  [youtube](https://youtu.be/dmBRwFVQk_M)
