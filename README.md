@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Crash des médias ? Crash des journalistes ? Paul Moreira et Edwy Plenel
+> 23 février 2022
+> [youtube](https://youtu.be/y6sMAYIjxjg)
+
+Edwy Plenel 
+- Sur le journalisme - Joseph Pulitzer
+- Terre d'ébène - Albert Londres
+- Mémoires vives - Edward Snowden 
+
+Paul Moreira
+- La Route - Cormac McCarthy
+- Beloved - Toni Morrison
+- Mémoire du feu - Eduardo Galeano
+
 ### L'emprise, la France sous influence ? Marc Endeweld
 > 17 février 2022
 > [youtube](https://youtu.be/HHyUr6RPMSk)
