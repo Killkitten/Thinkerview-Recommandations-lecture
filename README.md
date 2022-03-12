@@ -6,6 +6,18 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Comment arrive -t-on à la guerre ? Pierre Conesa
+> 10 mars 2022
+> [youtube](https://youtu.be/zkLwVeaQOiA)
+
+- La fabrication de l'ennemi - Pierre Conesa
+- L'idée de guerre juste - Monique Canto-Sperber
+- Livres et chroniques de Kamel Daoud
+- Une Suisse au-dessus de tout soupçon - Jean Ziegler
+
+Prochain livre de l'invité:
+- Vendre la guerre - Pierre Conesa
+
 ### Crash des médias ? Crash des journalistes ? Paul Moreira et Edwy Plenel
 > 23 février 2022
 > [youtube](https://youtu.be/y6sMAYIjxjg)
