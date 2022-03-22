@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Coup d'état numérique, la matrice ? Christophe Deloire
+> 18 mars 2022
+> [youtube](https://youtu.be/YHNxl8djy5Y)
+
+- La matrice - Christophe Deloire
+- Sans blessures apparentes - Jean-Paul Mari
+- Retour à Lemberg - Philippe Sands
+- L'Âge du capitalisme de surveillance - Shoshana Zuboff
+- La Fin de l'homme rouge - Svetlana Alexievitch
+
 ### Comment arrive -t-on à la guerre ? Pierre Conesa
 > 10 mars 2022
 > [youtube](https://youtu.be/zkLwVeaQOiA)
