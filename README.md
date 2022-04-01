@@ -6,6 +6,32 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+
+### L'Europe à court d'énergie ? Nicolas Meilhan et Francis Perrin 
+> 29 mars 2022
+> [youtube](https://youtu.be/nGpkykPCbVU)
+
+- [Analyse des propositions des candidats sur le climat - Le Shift Project](https://theshiftproject.org/article/climat-energie-analyse-shift-presidentielles/)
+- La Face cachée du pétrole - Reportage Arte
+
+Nicolas Meilhan
+- The Limits to Growth (1972) - Meadows
+- L'Âge des low tech. - Philippe Bihouix
+- Les quatre accords toltèques - Miguel Ruiz
+
+Francis Perrin
+- La guerre du pétrole - Mosley Leonard
+- [World Energy Outlook - IEA](https://www.iea.org/topics/world-energy-outlook)
+- Rapport de l'OPEP
+- Rapport de Departement de l'Energie des Etats Unis
+
+
+### Où va la France ? Jean-Luc Mélenchon - Part 2 
+> 28 mars 2022
+> [youtube](https://youtu.be/Q63JItjAsow)
+
+A venir
+
 ### Coup d'état numérique, la matrice ? Christophe Deloire
 > 18 mars 2022
 > [youtube](https://youtu.be/YHNxl8djy5Y)
