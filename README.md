@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Où va la France ? Jean-Luc Mélenchon
+> 21 janvier et 28 mars 2022
+> [youtube part 1](https://youtu.be/YFhV_SkhZyc) / [youtube part 2](https://youtu.be/Q63JItjAsow)
+
+- Le traître et le néant -  Gérard Davet & Fabrice Lhomme
+- L'Emprise: La France sous influence - Marc Endeweld
+- La Véritable Histoire des Gracques - Christopher Bouix
+
 ### Coup d'état numérique, la matrice ? Christophe Deloire
 > 18 mars 2022
 > [youtube](https://youtu.be/YHNxl8djy5Y)
