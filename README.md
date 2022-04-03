@@ -25,12 +25,13 @@ Francis Perrin
 - Rapport de l'OPEP
 - Rapport de Departement de l'Energie des Etats Unis
 
+### Où va la France ? Jean-Luc Mélenchon
+> 21 janvier et 28 mars 2022
+> [youtube part 1](https://youtu.be/YFhV_SkhZyc) / [youtube part 2](https://youtu.be/Q63JItjAsow)
 
-### Où va la France ? Jean-Luc Mélenchon - Part 2 
-> 28 mars 2022
-> [youtube](https://youtu.be/Q63JItjAsow)
-
-A venir
+- Le traître et le néant -  Gérard Davet & Fabrice Lhomme
+- L'Emprise: La France sous influence - Marc Endeweld
+- La Véritable Histoire des Gracques - Christopher Bouix
 
 ### Coup d'état numérique, la matrice ? Christophe Deloire
 > 18 mars 2022
