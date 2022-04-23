@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Vivre en dictature ? Sacha Filipenko
+> 14 avril 2022
+> [youtube](https://youtu.be/PXIiR612ghE)
+
+- Le Rivage des Syrtes - Julien Gracq
+- Les Bienveillantes - Jonathan Littell
+- Proust 
+- Georges Perec
+- Celine Louis Ferdinand
+
+Derniers livres de l'invité : 
+- La Traque - Sacha Filipenko
+- Un fils perdu - Sacha Filipenko
+- Croix rouges - Sacha Filipenko
 
 ### L'Europe à court d'énergie ? Nicolas Meilhan et Francis Perrin 
 > 29 mars 2022
