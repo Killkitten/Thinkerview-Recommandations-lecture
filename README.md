@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Tempête géopolitique ? Pascal Boniface
+> 04 mai 2022 
+> [youtube](https://youtu.be/iEogCC71eoQ)
+
+- Homo Sapiens : Une brève histoire de l'humanité - Yuval Noah Harari
+- Homo Deus : Une brève histoire de l'avenir - Yuval Noah Harari
+- The Hell of Good Intentions - Stephen Walt
+- Le premier XXIe siècle - Jean-Marie Guéhenno
+- De Gaulle et la Russie: Le prix de la grandeur - Alexandre Jevakhoff
+- Henry Kissinger
+- Zbigniew Brzezinski
+- Hubert Védrine
+- Gérard Chaliand
+
 ### Vivre en dictature ? Sacha Filipenko
 > 14 avril 2022
 > [youtube](https://youtu.be/PXIiR612ghE)
