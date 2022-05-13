@@ -6,6 +6,25 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Tempête géopolitique ? Pascal Boniface
+> 4 mai 2022
+> [youtube](https://youtu.be/iEogCC71eoQ)
+
+- Sapiens : Une brève histoire de l'humanité - Yuval Noah Harari
+- Homo Deus : Une brève histoire de l'avenir - Yuval Noah Harari
+- L'enfer des bonnes intentions - Stephen Walt
+- Le premier XXIe siècle - Jean-Marie Guéhenno
+- Les ouvrages de Henry Kissinger
+- Les ouvrages de Zbigniew Brzezinski
+- Les ouvrages d'Hubert Védrine
+- Les ouvrages de Gérard Chaliand
+- De Gaulle et la Russie - Alexandre Jevakhoff
+
+Derniers livres de l'invité :
+- Géopolitique du Covid-19 : Ce que nous révèle la crise du Coronavirus - Pascal Boniface
+- Géopolitique de l'intelligence artificielle - Pascal Boniface
+- Comprendre le monde : Les relations internationales expliquées à tous (6e édition) - Pascal Boniface
+
 ### Vivre en dictature ? Sacha Filipenko
 > 14 avril 2022
 > [youtube](https://youtu.be/PXIiR612ghE)
