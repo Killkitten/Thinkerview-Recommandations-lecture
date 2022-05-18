@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Crise de l'eau, planète terre invivable ? Emma Haziza
+> 17 mai 2022
+> [youtube](https://youtu.be/5ysUySSNW3M)
+
+- L'Homme qui plantait des arbres - Jean Giono
+- Le Bug humain: Pourquoi notre cerveau nous pousse à détruire la planète et comment l'en empêcher - Sébastien Bohler
+- L'empreinte eau - Les faces cachées d'une ressource vitale - Daniel Zimmer
+- Voyage aux pays du coton - Erik Orsenna
+- L'Avenir de l'eau - Erik Orsenna
+- livres de Marc-André Selosse
+
+Proposé par Sky 
+- Nouvelles graines - Sophie Labruyère et Nicolas Meyrieux
+
 ### Tempête géopolitique ? Pascal Boniface
 > 4 mai 2022
 > [youtube](https://youtu.be/iEogCC71eoQ)
