@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+
+### 35 ans de DGSE, une pointe de diamant ? Alain Chouet
+> 18 mai 2022
+> [youtube](https://youtu.be/i9dVo3mhpSU)
+
+- Sept pas vers l'enfer. Séparatisme islamique : les désarrois d'un officier de renseignement - Alain Chouet
+- L'interrogatoire - Vladimir Volkoff
+- Les Carnets de Turner - William Luther Pierce
+- Au coeur des services spéciaux - Alain Chouet, Jean Guisnel
+- Histoire politique des services secrets français - Jean Guisnel, Roger Faligot et Rémi Kauffer
+- Histoire secrète de la DGSE - Jean Guisnel
+- Histoire secrète de la Ve République - Jean Guisnel, Roger Faligot et Rémi Kauffer
+
 ### Crise de l'eau, planète terre invivable ? Emma Haziza
 > 17 mai 2022
 > [youtube](https://youtu.be/5ysUySSNW3M)
