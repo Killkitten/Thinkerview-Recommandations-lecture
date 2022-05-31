@@ -6,6 +6,17 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Perte de liberté et grogne sociale ? Michel Wieviorka
+> 25 mai 2022
+> [youtube](https://youtu.be/tr_IBgFhsSY)
+
+- Les Misérables - Victor Hugo
+- Le Comte de Monte-Cristo - Alexandre Dumas
+- L'Oeuvre de Jules Verne
+- L'Oeuvre d'Honoré de Balzac
+
+Dernier livre de l'invité :
+- Alors monsieur Macron, heureux ? - Michel Wieviorka
 
 ### 35 ans de DGSE, une pointe de diamant ? Alain Chouet
 > 18 mai 2022
