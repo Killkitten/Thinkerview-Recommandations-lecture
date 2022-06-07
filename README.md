@@ -6,6 +6,18 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La science-fiction prédit la guerre ? August Cole
+> 02 juin 22 
+> [youtube](https://youtu.be/i86t42xsZPY)
+
+- La flotte fantôme - P. W. Singer et August Cole
+- Control - P. W. Singer et August Cole
+- William Gibson - livres anciens (Trilogie de la Conurb + Gravé sur chrome)
+- William Gibson - Peripherals
+- Ray Bradbury - Fahrenheit 451
+- Série La Griffe du chien - Don Winslow
+- Tempête rouge - Tom Clancy
+
 ### Perte de liberté et grogne sociale ? Michel Wieviorka
 > 25 mai 2022
 > [youtube](https://youtu.be/tr_IBgFhsSY)
