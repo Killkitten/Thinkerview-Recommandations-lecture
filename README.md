@@ -308,7 +308,7 @@ Raphaël Rossello
 
 Zax / Brice Augras
 - Metasploit: the penetration tester's guide - Devon Kearns, David Kennedy, Mati Aharoni, Jim O'Gorman
-- (approximativement) Petit traité de manipulation à l'usage des honnêtes - Robert-Vincent Joule et Jean-Léon Beauvois 
+- Petit traité de manipulation à l'usage des honnêtes gens - Robert-Vincent Joule et Jean-Léon Beauvois 
 
 Victor Poucheret / Doomer
 - Hacking: The Art of Exploitation - Jon Erickson
