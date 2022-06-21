@@ -6,8 +6,21 @@
 
 Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Nucléaire : Choc énergétique, inflationniste, écologique ? Nicolas Nace & Gilles Babinet
+> 13 juin 2022
+> [youtube](https://youtu.be/F7S76vLLzMk)
+
+Gilles Babinet : 
+- Le Monde d'hier, souvenirs d'un Européen - Stefan Zweig
+- L'insurrection qui vient - Comité invisible
+
+Nicolas Nace :
+- Petit traité de sobriété énergétique - Barbara Nicoloso
+- Et Si... le monde d'après ne ressemblait pas au monde d'avant - Alternatiba
+- La Fabrique du monstre - Philippe Pujol
+
 ### La science-fiction prédit la guerre ? August Cole
-> 02 juin 22 
+> 02 juin 2022 
 > [youtube](https://youtu.be/i86t42xsZPY)
 
 - La flotte fantôme - P. W. Singer et August Cole
