@@ -4,7 +4,24 @@
 
 ## Recommandations de lecture des invités
 
-Liste des recommandations lecture des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
+Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
+
+### Anesthésie générale ? Jérémy Ferrari
+> 9 septembre 2022
+> [youtube](https://youtu.be/erRyV7-bF8o)
+
+Films :
+- Parasite - Bong Joon-ho
+- J'ai rencontré le Diable - Kim Jee-woon
+- Le Grand Bleu - Luc Besson
+
+### Nous sommes en guerre, la stratégie française ? Général Didier Castres
+> 8 septembre 2022
+> [youtube](https://youtu.be/aULVetWNRRU)
+
+- L'Atlantide - Pierre Benoit
+- L'escadron blanc - Joseph Peyré
+- La Piste oubliée - Roger Frison-Roche
 
 ### Nucléaire : Choc énergétique, inflationniste, écologique ? Nicolas Nace & Gilles Babinet
 > 13 juin 2022
