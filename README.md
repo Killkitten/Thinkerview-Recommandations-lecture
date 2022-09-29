@@ -6,6 +6,21 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Le chimpanzé qui murmurait à l'oreille de l'homme ? Frans de Waal
+> 28 septembre 2022
+> [youtube](https://youtu.be/-KNeGXcp7T8)
+
+- Le Singe nu - Desmond Morris
+- Bitch: A Revolutionary Guide to Sex, Evolution and the Female Animal - Lucy Cooke
+
+### Faut-il accepter de négocier avec le diable ? Pierre Hazan
+> 19 septembre 2022
+> [youtube](https://youtu.be/sRw6MOzbM-c)
+
+- Eichmann à Jérusalem - Hannah Arendt
+- La Mémoire, l'Histoire, l'Oubli - Paul Ricœur
+- Chroniques algeriennes 1939-1958 - Albert Camus
+
 ### Anesthésie générale ? Jérémy Ferrari
 > 9 septembre 2022
 > [youtube](https://youtu.be/erRyV7-bF8o)
