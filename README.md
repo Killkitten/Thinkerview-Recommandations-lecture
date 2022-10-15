@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Où va la France ? François Ruffin
+> 6 octobre 2022
+> [youtube](https://youtu.be/lJrD2zvF-cM)
+
+- Les Années - Annie Ernaux 
+- Un homme, un vrai - Tom Wolfe
+- La société ingouvernable - Grégoire Chamayou
+- Le Colonel Chabert - Honoré de Balzac
+- Questions de sociologie - Pierre Bourdieu
+
 ### Le chimpanzé qui murmurait à l'oreille de l'homme ? Frans de Waal
 > 28 septembre 2022
 > [youtube](https://youtu.be/-KNeGXcp7T8)
