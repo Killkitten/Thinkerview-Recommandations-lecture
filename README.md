@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La malbouffe contre-attaque ? Christophe Brusset
+> 13 octobre 2022
+> [youtube](https://youtu.be/Hix-9dz2gL4)
+
+- NASH. La maladie de la malbouffe - Dominique Lannes
+- Cochonneries - Guillaume Coudray
+- Algues vertes, l'histoire interdite - Inès Léraud
+
+Dernier livre de l'invité : La malbouffe contre-attaque - Christophe Brusset
+
 ### Où va la France ? François Ruffin
 > 6 octobre 2022
 > [youtube](https://youtu.be/lJrD2zvF-cM)
