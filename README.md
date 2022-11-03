@@ -6,6 +6,29 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Crise financière: la descente aux enfers? Gaël Giraud, Raphaël Rossello & Gilles Raveaud
+> 23 octobre 2022
+> [youtube](https://youtu.be/n7oj2m8B0iM)
+
+Gaël Giraud :
+- Composer un monde en commun. Une théologie politique de l'anthropocène - Gaël Giraud
+- La rivoluzione dolce della transizione ecologica - Gaël Giraud
+- Au commencement était... - David Graeber & David Wengrow
+- The Age of Sustainability - Just Transitions in a Complex World - Mark Swilling
+- Actifs fossiles, les nouveaux subprimes ? - Institut Rousseau
+
+Raphaël Rossello :
+- Demain - La fin de l'insouciance ? - Raphaël Rossello 
+- La Fin de l'histoire et le dernier homme - Francis Fukuyama
+- Discours de la servitude volontaire - Étienne de La Boétie
+- L'histoire De Christophe Colomb Attribué À Son Fils Fernand
+
+Gilles Raveaud :
+- Souriez, vous êtes Français ! - Bernard Maris
+- Adieu à la croissance - Jean Gadrey
+- Fake or not : Energies -  Maxence Cordiez 
+- Fake or not : Relocaliser - Jérôme Cuny
+
 ### La malbouffe contre-attaque ? Christophe Brusset
 > 13 octobre 2022
 > [youtube](https://youtu.be/Hix-9dz2gL4)
