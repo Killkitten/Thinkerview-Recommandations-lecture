@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### En bande organisée ? Flore Vasseur
+> 10 novembre 2022
+> [youtube](https://youtu.be/lrjHhO-3Pyc)
+
+- Voyage au bout de la nuit - Louis-Ferdinand Céline
+- What is the What - Dave Eggers
+- T.A.Z.: The Temporary Autonomous Zone - Hakim Bey
+
 ### Crise financière: la descente aux enfers? Gaël Giraud, Raphaël Rossello & Gilles Raveaud
 > 23 octobre 2022
 > [youtube](https://youtu.be/n7oj2m8B0iM)
