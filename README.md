@@ -525,6 +525,14 @@ Marc Rees :
 - Le Licite et l'Illicite en islam - Youssef al-Qaradâwî
 - La trahison des clercs - Julien Benda
 
+### Désinformation en temps d'épidémie ? Pr Renaud Piarroux
+> 9 avril 2021
+> [youtube](https://youtu.be/eLwiJwnrpEU?t=8430)
+
+- La peste - Albert Camus
+- Le Hussard sur le toit - Jean Giono
+- Deadly River: Cholera and Cover-up in Post-Earthquake Haiti - Ralph R. Frerichs
+
 ### Crise gigantesque en approche ? Gilles Raveaud
 > 1 avril 2021
 > [youtube](https://youtu.be/bIIRor8z1Wk)
