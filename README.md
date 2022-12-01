@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Crise financière, réchauffement climatique, où va l'Afrique ? Lionel Zinsou
+> 23 novembre 2022
+> [youtube](https://youtu.be/6aWXwEUrd6o)
+
+- Histoire globale de la France coloniale - Ouvrage collectif sous la direction de Nicolas Bancel, Pascal Blanchard, Sandrine Lemaire, et Dominic Thomas
+- Has the West Lost It?: A Provocation - Kishore Mahbubani
+- Publications de Pascal Canfin et Thierry Pech dans le Thinktank Terra Nova
+
 ### En bande organisée ? Flore Vasseur
 > 10 novembre 2022
 > [youtube](https://youtu.be/lrjHhO-3Pyc)
