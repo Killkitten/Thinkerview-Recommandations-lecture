@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Les coulisses édifiantes des paradis fiscaux ? Renaud Van Ruymbeke
+> 24 novembre 2022
+> [youtube](https://youtu.be/_x8lmFjSB0A)
+
+- Offshore - Renaud Van Ruymbeke
+- Le livre de l'intranquillité - Fernando Pessoa
+- Les Frères Karamazov - Fiodor Dostoïevski
+
 ### Crise financière, réchauffement climatique, où va l'Afrique ? Lionel Zinsou
 > 23 novembre 2022
 > [youtube](https://youtu.be/6aWXwEUrd6o)
