@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### En route vers un confinement énergétique ? Nicolas Meilhan et Philippe Bihouix
+> 30 novembre 2022
+> [youtube](https://youtu.be/xJyLv_vWZJ8)
+
+Philippe Bihouix :
+- Le Gang de la clef à molette - Edward Abbey 
+- La terre demeure - George R. Stewart
+- La Guerre éternelle - Joe Haldeman
+
+Nicolas Meilhan :
+- L'Âge des low tech - Philippe Bihouix
+- Le monde sans fin - Jean-Marc Jancovici & Christophe Blain
+- Ravage - René Barjavel
+
 ### Les coulisses édifiantes des paradis fiscaux ? Renaud Van Ruymbeke
 > 24 novembre 2022
 > [youtube](https://youtu.be/_x8lmFjSB0A)
