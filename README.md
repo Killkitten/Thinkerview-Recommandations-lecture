@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Une formidable crise financière en perspective ? Jézabel Couppey-Soubeyran 
+> 5 janvier 2023
+> [youtube](https://youtu.be/EsS0VXPz2oc)
+
+- Deux siècles de rhétorique réactionnaire - Albert Hirschman
+- Brève histoire de l'euphorie financière - Kenneth Galbraith
+- Cher connard -  Virginie Despentes
+
 ### En route vers un confinement énergétique ? Nicolas Meilhan et Philippe Bihouix
 > 30 novembre 2022
 > [youtube](https://youtu.be/xJyLv_vWZJ8)
