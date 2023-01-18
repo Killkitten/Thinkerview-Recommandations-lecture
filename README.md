@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La fin de l'abondance industrielle ? Louis Gallois et Olivier Lluansi
+> 13 janvier 2023
+> [youtube](https://youtu.be/TtXA6EZh3xU)
+
+Olivier Lluansi :
+- Belle du Seigneur - Albert Cohen
+- Le Bateau ivre - Arthur Rimbaud
+- Où atterrir ? Comment s'orienter en politique - Bruno Latour
+
+Louis Gallois : 
+- Vie et Destin - Vassili Grossman
+- Quatrevingt-treize - Victor Hugo
+- Crépuscule de la France d'en haut - Christophe Guilluy
+
 ### Une formidable crise financière en perspective ? Jézabel Couppey-Soubeyran 
 > 5 janvier 2023
 > [youtube](https://youtu.be/EsS0VXPz2oc)
