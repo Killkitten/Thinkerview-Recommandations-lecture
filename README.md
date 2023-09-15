@@ -6,6 +6,62 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La guerre des intelligences ? Laurent Alexandre
+> 15 septembre 2023
+> [youtube](https://www.youtube.com/watch?v=D3hR6nMZHG8)
+
+- Le meilleur des mondes - Aldous Huxley
+- 1984 - George Orwell
+
+Des films
+- Ex Machina - Alex Garland
+- Her - Spike Jonze
+
+Des lectures pour aborder l'intelligence artificielle
+- La guerre des intelligences à l'heure de ChatGPT - Laurent Alexandre
+- Si Rome n'avait pas chuté - Raphaël Doan
+
+### Sobriété, déconsommateurs : cache-misère des gouvernements ? Jean-Marc Jancovici
+> 5 septembre 2023
+> [youtube](https://www.youtube.com/watch?v=DfFohLBPh2Y)
+
+- De l'inégalité parmi les sociétés - Jared Diamond
+- Les Limites à la croissance - Dennis Meadows, Donella Meadows et Jørgen Randers (la version originale)
+
+### Second tour, fable politique ? Albert Dupontel
+> 4 septembre 2023
+> [youtube](https://www.youtube.com/watch?v=KtLvAGtz2BM)
+
+- Une histoire populaire des États-Unis - Howard Zinn
+- Robe de marié - Pierre Lemaitre
+- Mémoires de guerre - Charles de Gaulle
+
+Des films :
+- Buffet froid - Bertrand Blier
+- Trop belle pour toi - Bertrand Blier
+- Merci la vie - Bertrand Blier
+- Huit et demi - Federico Fellini
+- Mulholland Drive - David Lynch
+- La grande bellezza - Paolo Sorrentino
+- La Chienne - Jean Renoir
+- Panique - Julien Duvivier
+- Les Enfants du paradis - Marcel Carné
+- French Connection - William Friedkin
+- Voyage au bout de l'enfer - Michael Cimino
+- Oppenheimer - Christopher Nolan
+
+### Prix Nobel d'économie : face à la pauvreté ? Esther Duflo
+> 31 août 2023
+> [youtube](https://www.youtube.com/watch?v=WpKoDq53_Vc)
+
+- Dans la dèche à Paris et à Londres - George Orwel
+- René Char (aucune référence)
+- Dans la Zone verte: les américains à Bagdad - Rajiv Chandrasekaran
+- Nous avons le plaisir de vous informer que, demain, nous serons tués avec nos familles - Philip Gourevitch
+- Thumpa À l'ombre des arbres - Esther Duflo
+- Imeuni et Tsongai La belle affaire ! - Esther Duflo
+- Seleni Pas touche au potager ! - Esther Duflo
+
 ### Quand est-ce que l'on touche le fond ? Pierre Sabatier et Olivier Delamarche
 > 11 juillet 2023
 > [youtube](https://www.youtube.com/watch?v=q-rVcT0tpj0)
