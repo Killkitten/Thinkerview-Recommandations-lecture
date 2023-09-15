@@ -6,6 +6,183 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Quand est-ce que l'on touche le fond ? Pierre Sabatier et Olivier Delamarche
+> 11 juillet 2023
+> [youtube](https://www.youtube.com/watch?v=q-rVcT0tpj0)
+
+Olivier Delamarche
+- Les apprentis sorciers - Alexandra Henrion-Caude
+
+Pierre Sabatier
+- Ménon - Platon
+
+### Criminalisation des luttes : écoterrorisme ? M. Dulac, C. Bonneuil, A. Planchard
+> 7 juillet 2023
+> [youtube](https://www.youtube.com/watch?v=TeW5tlALx_I)
+
+Christophe Bonneuil
+- Génocides tropicaux - Mike Davis
+- La société ingouvernable - Grégoire Chamayou
+
+Marcelle Dulac
+- Surveiller et punir - Michel Foucault
+- On ne dissout pas un soulèvement - Collectif
+- Reprendre la terre aux machines - L'Atelier Paysan
+
+Adèle Planchard
+- La guerre des pauvres - Éric Vuillard
+
+Proposé par Sky 
+- Carl von Clausewitz (aucune référence)
+
+### Les émeutes de la pauvreté ? Olivier De Schutter
+> 29 juin 2023
+> [youtube](https://www.youtube.com/watch?v=VwP9Ikznkgw)
+
+- Ralentir ou périr - Timothée Parrique
+- Homo confort - Stefano Boni
+- Accélération - Hartmut Rosa
+- Résonance - Hartmut Rosa
+- René Dumont (aucune référence)
+- Ivan Illich (aucune référence)
+- André Gorz (aucune référence)
+
+### Stratège de guerre : Sabotages, Cupidité et Agressions ? Jérôme Clech
+> 7 juin 2023
+> [youtube](https://www.youtube.com/watch?v=V5rrujhVFU0)
+
+- La prospective stratégique - Jérôme Clech
+- La Crise de l'Esprit - Paul Valéry
+- La liberté de l'esprit - Paul Valéry
+- Les mots et les choses - Michel Foucault
+
+### Effondrement, pénurie de médicaments ? Clémence Marque
+> 26 mai 2023
+> [youtube](https://www.youtube.com/watch?v=cdSnF-6SW8o)
+
+- La Grande Extension - Jean-David Zeitoun
+- Le suicide de l'espèce - Jean-David Zeitoun
+- L’Énergie du déni - Vincent Mignerot
+- La maison - J. Patrick Lewis et Roberto Innocenti
+
+### Immigration, où va la France ? Estelle Youssouffa
+> 22 mai 2023
+> [youtube](https://www.youtube.com/watch?v=AKIj_8v5vO8)
+
+- Les Fleurs du Mal - Charles Baudelaire
+- Le Prince - Nicolas Machiavel
+- Saint-Germain ou la Négociation - Francis Walder
+
+### Domination Globale : Taïwan ? Wu Chih-chung
+> 9 mai 2023
+> [youtube](https://www.youtube.com/watch?v=MIbB5On-rbQ)
+
+- Diplomatie - Henry Kissinger
+- La terre est plate - Thomas Friedman
+
+### Semaine de 4 jours, taxe sur la spéculation ? Pierre Larrouturou
+> 20 avril 2023
+> [youtube](https://www.youtube.com/watch?v=f_66t1xEMes)
+
+- Sois jeune et tais-toi - Salomé Saqué
+- Perdre la Terre - Nathaniel Rich
+- Climat: Une enquête de la revue La Pensée écologique - Hervé Le Treut et Jean Jouzel
+
+### France : la stratégie du canard sans tête ? Yves Bréchet
+> 10 avril 2023
+> [youtube](https://www.youtube.com/watch?v=1VIJn67HpaU)
+
+- Pensées - Blaise Pascal
+- De la démocratie en Amérique - Alexis De Tocqueville
+- La Science au cœur de nos vies - Maurice Tubiana
+- Sustainable Energy – without the hot air (L'énergie durable: Pas que du vent !) - David J. C. MacKay
+- Une longue route pour m'unir au chant français - François Cheng
+
+### Analyser un monde anesthésié par l’horreur ? Jean-Jacques Tyszler
+> 6 avril 2023
+> [youtube](https://www.youtube.com/watch?v=QzXv5esir2s)
+
+- Pourquoi la guerre ? - Albert Einstein et Sigmund Freud
+- La Métamorphose - Franz Kafka
+- Les grands auteurs Russes (aucune référence)
+
+### Marchés financiers sans éthique : quels sont les risques ? Eva Sadoun
+> 22 mars 2023
+> [youtube](https://www.youtube.com/watch?v=2RaoSSHzmCs)
+
+- Brutalisme - Achille Mbembe
+- Les livres de Vandana Shiva
+- Nous, fils d'Eichmann - Günther Anders
+
+### Où sont les risques, où va la France ? Henri Guaino
+> 10 mars 2023
+> [youtube](https://www.youtube.com/watch?v=PCZjiWgR4Bk)
+
+- Le Premier Homme - Albert Camus
+- Civilisation matérielle, économie et capitalisme (3 tomes) - Fernand Braudel
+- Mémoires d'outre-tombe - François-Auguste-René de Chateaubriand
+- Le Mémorial de Sainte-Hélène - Emmanuel de Las Cases
+
+### Qui aurait pu prédire : la guerre économique ? Christian Harbulot
+> 8 mars 2023
+> [youtube](https://www.youtube.com/watch?v=vYTrkI310Hw)
+
+- L'Homme en guerre - Philippe Masson
+- Combattre en dictature - Jean-Luc Leleu
+- Les abeilles grises - Andreï Kourkov
+
+### Effondrement : notre civilisation au bord du gouffre ? Aurore Stéphant
+> 26 février 2023
+> [youtube](https://www.youtube.com/watch?v=FkiMqLD3_YQ)
+
+- Le Quai de Wigan - George Orwell
+- Paradis sous terre - Alain Deneault et William Sacher
+- La Contamination du monde - François Jarrige et Thomas Le Roux
+
+### Les sols à l'agonie, peut-on encore les sauver ? Lydia et Claude Bourguignon
+> 15 février 2023
+> [youtube](https://www.youtube.com/watch?v=OWnT1bkHQto)
+
+Commun
+- Pourquoi ne faisons-nous rien pendant que la maison brûle ? - Claude Bourguignon et Lydia Bourguignon
+
+Lydia Bourguignon
+- Le Grand Meaulnes - Alain-Fournier
+- Les Encycliques du Pape François
+- Les livres sur la flore de Gaston Bonnier
+
+
+Claude Bourguignon
+- Avant que nature meure - Jean Dorst
+- Printemps silencieux - Rachel Carson
+- Les Racines du ciel - Romain Gary
+
+### EDF : Saccagé délibérément par l'Europe ? Henri Proglio
+> 9 février 2023
+> [youtube](https://www.youtube.com/watch?v=QACrpN3Ut7w)
+
+- Des livres d'histoire (aucune référence)
+- Des livres policiers / d'espionnage (aucune référence)
+- Des livres de science fiction (Isaac Asimov, Ray Bradbury)
+
+### Souveraineté énergétique : vers une tiers-mondisation de la France ? Hervé Machenaud
+> 1 février 2023
+> [youtube](https://www.youtube.com/watch?v=BRNCmlUk5j8)
+
+- La France dans le noir - Hervé Machenaud
+- Lettres à un jeune poète - Rainer Maria Rilke
+- Regards sur le monde actuel - Paul Valéry
+- L'Enracinement - Simone Weil
+- Has China Won? - Kishore Mahbubani
+
+### Mégamenaces, un avenir sombre, des politiques dans le déni ? Nouriel Roubini
+> 14 janvier 2023
+> [youtube VO](https://www.youtube.com/watch?v=CUOufgN4438) | [youtube VF](https://www.youtube.com/watch?v=GBBBupC8Yjk)
+
+- L'Ancien Testament
+- Le Rouge et le Noir - Stendhal
+- L'Interprétation du rêve - Sigmund Freud
+
 ### La fin de l'abondance industrielle ? Louis Gallois et Olivier Lluansi
 > 13 janvier 2023
 > [youtube](https://youtu.be/TtXA6EZh3xU)
