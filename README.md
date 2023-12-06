@@ -6,6 +6,103 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Deux économistes sous stress-test ? Julia Cagé et Thomas Piketty
+> 28 novembre 2023
+> [youtube](https://www.youtube.com/watch?v=xWkQKFguMv0)
+
+Julia Cagé
+- Une histoire du conflit politique - Julia Cagé et Thomas Piketty
+- Le vote FN au village - Violaine Girard
+- Affluence and Influence - Martin Gilens
+- Democracy in America? - Benjamin I. Page et Martin Gilens
+- l'oeuvre complete d'Annie Ernaux
+
+Thomas Piketty
+- Une histoire du conflit politique - Julia Cagé et Thomas Piketty
+- Le Père Goriot - Honoré de Balzac
+- La volonté et la fortune - Carlos Fuentes
+- Le Ministère du futur - Kim Stanley Robinson
+
+### Comment devient-on bourreau ? Pierre Conesa
+> 15 novembre 2023
+> [youtube](https://www.youtube.com/watch?v=68ftth8wPK8)
+
+- État des lieux du salafisme en France - Pierre Conesa
+
+### Produire en France, au-delà de l'inquiétude ? Loïk Le Floch-Prigent et Nicolas Meilhan
+> 9 novembre 2023
+> [youtube](https://www.youtube.com/watch?v=hnw4rI41n-s)
+
+Loïk Le Floch-Prigent 
+- De Gaulle - Julian T. Jackson
+- les livres sur la France de Franz-Olivier Giesbert
+- Se libérer de son moi toxique - Marie-Estelle Dupont
+- Plastique bashing - Joseph Tayefeh
+
+Nicolas Meilhan
+- Guerre de l'énergie - Fabien Bouglé
+- L'Ukraine et le basculement du monde - François Martin
+- Le Monde sans fin - Christophe Blain et Jean-Marc Jancovici
+
+### Dans le mur, quoi qu’il en coûte ? François Lenglet
+> 8 novembre 2023
+> [youtube](https://www.youtube.com/watch?v=1tTksQL2kqs)
+
+- Combien de temps ça va durer ? - François Lenglet
+- Rien ne va, mais... - François Lenglet
+- La guerre des empires - François Lenglet
+- The Fourth Turning: An American Prophecy - William Strauss et Neil Howe
+- Capitalisme et pulsion de mort - Bernard Maris et Gilles Dostaler
+- The Great Demographic Reversal - Charles Goodhart et Manoj Pradhan
+
+### IA : le devenir légume de l’humanité ? Éric Sadin 
+> 19 octobre 2023
+> [youtube](https://www.youtube.com/watch?v=P1xA8xSXmqg)
+
+- L’Obsolescence de l’homme - Günther Anders
+- L'Homme révolté - Albert Camus
+- Le Bilan de l'intelligence - Paul Valéry
+- Notre Jeunesse - Charles Péguy
+
+### La faillite du système bancaire ? Jacques de Larosière et Tom Benoit
+> 18 octobre 2023
+> [youtube](https://www.youtube.com/watch?v=ztGBDtWGNq8)
+
+Tom Benoit
+- Diplomatie - Henry Kissinger
+- Dictionnaire amoureux de la géopolitique - Hubert Vedrine
+- En finir avec le règne de l'illusion financière - Jacques de Larosière
+
+Jacques de Larosière
+- En finir avec le règne de l'illusion financière - Jacques de Larosière
+- Le vol d'Icare
+- Nous étions seuls - Gérard ARAUD
+- Andre darrigade , le landais volant - Jacques Olivier Boudon
+
+Sky
+- Les mémoires d'Herbert Hoover - Herbert Hoover
+
+### Faillite des élites ? Alexandre Moatti
+> 10 octobre 2023
+> [youtube](https://www.youtube.com/watch?v=5ZimuPQc8cY)
+
+- Technocratisme : les grands corps à la dérive - Alexandre Moatti
+- Les Élites en France. Grands corps et grandes écoles - Ezra Suleiman
+- Humain, posthumain - Dominique Lecourt
+- Mémoires d'outre-tombe - François-Auguste-René de Chateaubriand
+
+### Bataille de civilisation dans un monde en ruine ? Jean-Luc Mélenchon
+> 3 octobre 2023
+> [youtube](https://www.youtube.com/watch?v=FzzQgJntbqQ)
+
+- Faites mieux - Jean-Luc MÉLENCHON
+- Vendredi ou les Limbes du Pacifique (version intégrale) - Michel Tournier
+- L'Idéologie allemande - Friedrich Engels et Karl Marx
+- Le Berceau du chat - Kurt Vonnegut
+- Abattoir 5 ou la Croisade des enfants - Kurt Vonnegut
+- Cycle de Fondation - Isaac Asimov
+- Blade Runner - Philip K. Dick
+
 ### La guerre des intelligences ? Laurent Alexandre
 > 15 septembre 2023
 > [youtube](https://www.youtube.com/watch?v=D3hR6nMZHG8)
