@@ -6,6 +6,137 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Les Hackers face aux cyberguerres ? Bluetouff, Fabrice Epelboin & Marc-Antoine Ledieu
+> 21 mars 2024
+> [youtube](https://www.youtube.com/watch?v=ri2GT4IDqb4)
+
+Bluetouff
+- Livre blanc sur le Bitcoin
+
+Fabrice Epelboin
+- Les ingénieurs du chaos - Giuliano da Empoli
+
+Marc-Antoine Ledieu
+- Saint-Elme - Serge Lehman
+
+### Animateur télé et show-business ? Valérie Damidot
+> 14 mars 2024
+> [youtube](https://www.youtube.com/watch?v=SOKD17pFgmU)
+
+Pas de conseil de lecture
+
+### Rendre compte des catastrophes énergétiques et humanitaires ? Quentin Müller
+> 5 mars 2024
+> [youtube](https://www.youtube.com/watch?v=CGOyFYgKJks)
+
+- Yemen 62-69 : De la révolution sauvage à la trêve des guerriers - Claude Deffarge, Gordian Troeller
+- La mouvance zaydite dans le Yémen contemporain : Une modernisation avortée - Samy Dorlian
+- Le Yémen : De l'Arabie heureuse à la guerre - Laurent BONNEFOY
+- Warda - Sonallah Ibrahim
+
+### Économie : le mensonge face à la réalité ? Marc Touati
+> 21 février 2024
+> [youtube](https://www.youtube.com/watch?v=fWbFaXR3blc)
+
+- Théorie générale de l'emploi, de l'intérêt et de la monnaie - John Maynard Keynes
+- Le Père Goriot - Honoré de Balzac
+- Le Nom de la rose - Umberto Eco
+
+### Fichage politique, où va la France ? Marion Maréchal
+> 16 février 2024
+> [youtube](https://www.youtube.com/watch?v=bJ1dmmGSssE)
+
+- Les fleurs d'Ulysse - Jacques Trémolet de Villers
+- Historiquement correct - Jean Sévilla
+- La philosophie devenue folle: Le genre, l'animal, la mort - Jean-François Braunstein
+- Climat, la part d'incertitude - Steven Koonin
+
+### La mort de l'agriculture française ? Pierrick Horel & Quentin Le Guillous
+> 13 février 2024
+> [youtube](https://www.youtube.com/watch?v=f1xWvIaj-WE)
+
+Pierrick Horel
+- La longue route - Bernard Moitessier
+- Jours barbares : Une vie de surf - William Finnegan
+- Mémoires du large - Eric Tabarly
+
+Quentin Le Guillous
+- Nourrir sans dévaster : Petit précis de mondialisation - Julien Denormandie, Érik Orsenna
+
+### Mon Afrique va mal ? Tiken Jah Fakoly
+> 6 février 2024
+> [youtube](https://www.youtube.com/watch?v=NNt4_lEbT8U)
+
+- Soundjata ou l'épopée mandingue - Djibril Tamsir Niane
+- Le Premier Rasta - Hélène Lee
+- La Françafrique - François-Xavier Verschave
+
+### La Finance peut-elle arrêter de ruiner la planète ? Bertrand Badré
+> 31 janvier 2024
+> [youtube](https://www.youtube.com/watch?v=2ReimJnUQ8o)
+
+- A la recherche du temps perdu - Marcel Proust
+- Blueberry, La Mine de l'Allemand perdu - Jean Giraud, Jean-Michel Charlier
+- Mémoires d'Hadrien - Marguerite Yourcenar
+
+### Plus rien à perdre ? Fabrice Eboué
+> 22 janvier 2024
+> [youtube](https://www.youtube.com/watch?v=c0rTmBMUgj8)
+
+- Rêveries du promeneur solitaire - Jean-Jacques Rousseau
+- Smonk - Tom Franklin
+- Les Indes fourbes - Alain Ayroles, Juanjo Guarnido
+
+### Inflation, bientôt la révolution ? Dominique Schelcher
+> 17 janvier 2024
+> [youtube](https://www.youtube.com/watch?v=YJp0WCYe77c)
+
+- Les Essais - Michel de Montaigne
+- La Côte sauvage - Jean-René Huguenin
+- Journal - Jean-René Huguenin
+- Dictionnaire amoureux des Dictionnaires - Alain Rey
+
+### Accueillir des migrants avec moins d'énergie ? Olivier Delamarche & Charles-Henri Gallois
+> 11 janvier 2024
+> [youtube](https://www.youtube.com/watch?v=wJwORz6RN2Y)
+
+Olivier Delamarche
+- Nos grands défis du XXIe siècle : Énergie et immigration - Charles-Henri Gallois
+- La vérité vous rendra libre - Charles Gave
+
+Charles-Henri Gallois
+- Les frères Karamazov - Fedor Mikhaïlovitch Dostoïevski
+- Le Secret de l'Occident - David Cosandey
+- L'étrange suicide de l'Europe - Douglas Murray
+
+### Trahison des chefs, où va la France ? Guillaume Bigot
+> 11 décembre 2023
+> [youtube](https://www.youtube.com/watch?v=3PnYKhBO0gg)
+
+- La culture du narcissisme - Christopher Lasch
+- Voyage au centre du malaise français - Paul Yonnet
+- Fascination du djihad : Fureurs islamistes et défaite de la paix - Gabriel Martinez-Gros
+
+### IA : notre futur assistant ou nouveau maître ? Justine Cassell et Cédric Villani
+> 8 décembre 2023
+> [youtube](https://www.youtube.com/watch?v=GeYs3k5Y-Rg)
+
+Justine Cassel
+- L'âge de diamant ou le Manuel illustré d'éducation à l'usage de filles - Neal Stephenson
+
+Cédric Villani
+- Algorithmes : la bombe à retardement - Cathy O’Neil
+- Toxic Data : Comment les réseaux manipulent nos opinions - David Chavalarias
+- Dream Machine : ou comment j'ai failli vendre mon âme à l'intelligence artificielle - Laurent Daudet, Appupen
+
+### Souveraineté alimentaire face au dérèglement climatique ? Zerge Zaka
+> 7 décembre 2023
+> [youtube](https://www.youtube.com/watch?v=2PMDmICN5Kk)
+
+- Livre vert du projet CLIMATOR - 17 équipes de 8 organismes de recherche et de développement agricole
+- Refonder l'agriculture à l'heure de l'Anthropocène - Bertrand Valiorgue
+- Géopolitique du blé - Sébastien Abis
+
 ### Deux économistes sous stress-test ? Julia Cagé et Thomas Piketty
 > 28 novembre 2023
 > [youtube](https://www.youtube.com/watch?v=xWkQKFguMv0)
